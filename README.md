@@ -1,4 +1,5 @@
 # linked-blog-starter-md
 These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
 Cool Edit
-hello How are you
+hello How are 
+I'm doing fine
