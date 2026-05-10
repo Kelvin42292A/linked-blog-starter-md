@@ -1,4 +1,4 @@
-### Material
+### Material Facts
 
 - **The Legislation**: The Canadian Parliament enacted the Combines Investigation Act (R.S. Can., 1927, c. 26) and Section 498 of the Criminal Code
 

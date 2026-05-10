@@ -1,4 +1,4 @@
-### Material
+### Material Facts
 
 - Hallett violently assaulted Whiting (the deceased), rendering him unconscious.
 
