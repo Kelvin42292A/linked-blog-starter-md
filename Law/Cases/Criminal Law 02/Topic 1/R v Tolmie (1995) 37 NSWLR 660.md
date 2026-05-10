@@ -21,3 +21,6 @@ Under [sections 61I](https://anzlaw.thomsonreuters.com/Link/Document/FullText?re
 - The jury had to decide whether the complainant consented to sexual intercourse and whether Tolmie knew she was not consenting or was reckless
 - The trail judge directed the jury that Tolmie would be guilty if he realised there was a possibility she was not consenting but went ahead anyway, **of** if he failed to consider the question of consent when the risk was obvious
 - The evidence (complainant's protests, physical struggle, and immediate complaint) supported the jury's finding that there was no consent and that Tolmie was at least reckless as to her lack of consent
+### Conclusion
+The Court of Criminal Appeal **dismissed** the appeal against conviction
+The trail judge's directions on **recklessness** were correct and sufficient
