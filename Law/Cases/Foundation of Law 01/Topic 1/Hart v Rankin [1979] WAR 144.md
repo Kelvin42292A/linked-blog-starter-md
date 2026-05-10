@@ -1,5 +1,9 @@
 
-
+### Material Facts
+- The appellant's car broke down on the road
+- While his car was being towed, the appellant sat in the driver's seat, steered the car, and was able to apply the brakes
+- He was charged with driving a motor vehicle on a road without holding a driver's license.
+- He was convicted and sentenced
 ### Issue
 
 - The conviction issue: Did the appellant “drive” a “motor vehicle” under the _Road Traffic Act_ 1974-1978 when he was steering a car that had broken down and was being towed?
