@@ -1,7 +1,6 @@
 High Court of Australia
 ### Material Facts 
-- He Kaw Teh was charged in the County Court of Victoria with two offences:
-	 1. on 20 October 1982, he imported into Australia 2.788 kilograms of heroin
-	 2. The same day he had in his possession without reasonable excuse the same quantity of herion
-- Teh had travelled by air from Kuala Lumper to Melbourne and he was found in Melbourne airport there was herionin contained in his baggage. 
-- 
+He Kaw Teh arrived in Melbourne from Kuala Lumpur with 2.788 kg of heroin hidden in his baggage. He was charged under [s. 233B(1) of the Customs Act 1901](https://anzlaw.thomsonreuters.com/Link/Document/FullText?refType=U5&docFamilyGuid=Ifb06d6efee6f11e8af46ddc380776190&pubNum=1100190&originationContext=document&transitionType=DocumentItem&docVersion=Law+in+Force&ppcid=22cfee047923402694d5e9b9d8b05e46&contextData=\(sc.Default\)) of the Customs Act 1901 with:
+- Importing a prohibited import (heroin) and
+- Possession of a prohibited import without reasonable excuse
+### Issue 
