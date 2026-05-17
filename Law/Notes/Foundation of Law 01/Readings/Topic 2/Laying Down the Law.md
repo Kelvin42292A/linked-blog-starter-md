@@ -1,4 +1,4 @@
-# Distinction between matters of fact and matter of law
+## Distinction between matters of fact and matter of law
 
 ### Newer Version (Chapter 6, §§6.57–6.59)
 
