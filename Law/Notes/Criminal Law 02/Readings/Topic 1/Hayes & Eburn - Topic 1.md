@@ -1,6 +1,8 @@
 # Definition of a crime
 
 ### What is a Crime?
+[[Proprietary Articles Trade Association v Attorney-General for Canada [1931] AC 310]]
+[[Chief Executive Officer of Customs v Labrador Liquor Wholesale Pty Ltd [2003] HCA 49]]
 
 - **The Rule:** A Crime is whatever the statute says it is. Moral don’t matter.
 - **Proprietary Articles:** Two elements make a crime: (1) State prohibited + (2) Punishable
@@ -29,7 +31,6 @@
 - **Sentencing:** Parties **can** agree on a penalty settlement for the judge to approve
 
 # Role of criminal law
-
 ### The Dual Role of Criminal Law
 
 Criminal law does two main, competing things
@@ -53,7 +54,6 @@ Because the State (police/prosecution) has massive resources, the law provides s
 - **The Right to Fair Trail: Dietrich v R (Key Case)** establishes that a fair trail is a fundamental, deeply rooted right. The court’s job is to stand as an independent referee between the powerful State and the individual citizen.
 
 # Bill of Rights
-
 ### The “Bill of rights” problem
 
 - **The issue:** Unlike Europe, Australia does not have a federal Bill of Rights
@@ -73,7 +73,6 @@ Traditionally, criminal law only punishes past actions. Can the state keep you i
 - NSW now has laws like Crimes (High Risk Offenders) Act 2006, which allows ongoing detention and extended supervision of violent or sex offenders after their sentences expire.
 
 # Burden of proof
-
 ### The “Golden Thread” (Who proves what?)
 
 - **The General Rule:** The prosecution (the Crown) bears the burden of proving the accused’s guilt. The accused does not have to prove their innocence.
@@ -231,6 +230,7 @@ The action is normally completely legal, but becomes a crime only because of the
 _Example:_ Consensual sex is lawful conduct. However, if the _circumstance_ is that one person is under 16, that external fact transforms the lawful act into a criminal one.
 
 # Fault elements
+[[Zaburoni v The Queen [2016] HCA 12]]
 
 ### The 4 levels of fault
 
