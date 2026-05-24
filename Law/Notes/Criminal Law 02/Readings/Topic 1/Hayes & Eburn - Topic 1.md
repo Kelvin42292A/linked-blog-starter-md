@@ -277,3 +277,28 @@ This case highlights how hard it is to prove true “intention”.
 - **The High Court’s Decision:** The conviction was quashed. The court ruled that just because he engaged in frequent, highly risky conduct (which prove he was **reckless),** that does not automatically prove he had the specific **intention** to transmit the disease. Foresight of a risk is not the same as intending the result.
 
 # Coincidence of physical and fault elements
+### Children
+
+- **Under 10 years**: Absolute presumption — **cannot** be held criminally responsible (irrebuttable).
+- **10–14 years**: Rebuttable presumption of _doli incapax_ — presumed incapable of crime unless prosecution proves the child knew their act was **seriously wrong** (not just naughty).
+
+### Corporate Defendants
+
+- Corporations can be criminally liable.
+- Must prove the company (through its directing mind) had the required fault element (_mens rea_).
+
+### General Principles
+
+- **Coincidence Rule**: Physical act (_actus reus_) and guilty mind (_mens rea_) must exist **at the same time**.
+- Most crimes require both physical and fault elements.
+
+### Strict & Absolute Liability
+[[He Kaw Teh v The Queen (1985) 157 CLR 523]]
+
+- **Strict Liability**: Prove only the physical act — no need to prove fault/mens rea (but honest & reasonable mistake of fact may be a defence).
+- **Absolute Liability**: Prove only the physical act — **no** defence of mistake available.
+
+###  Honest and Reasonable Mistake of Fact
+
+- Can be a defence if the accused honestly and reasonably believed facts that would make the act innocent.
+- **Not** a defence to absolute liability offences or if the statute excludes it.
