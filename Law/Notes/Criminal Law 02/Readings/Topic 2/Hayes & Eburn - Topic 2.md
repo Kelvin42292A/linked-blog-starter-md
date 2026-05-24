@@ -1,4 +1,7 @@
 ### Dishonesty
+[[Peters v R [1998] HCA 7; 192 CLR 493; 151 ALR 51; 72 ALJR 517 (2 February 1998)]]
+[[R v Fuge [2001] NSWCCA 208]]
+[[Macleod v R [2003] HCA 24; 214 CLR 230; 197 ALR 333; 77 ALJR 1047 (7 May 2003)]]
 
 **Common Law (Peters v R)**: Dishonesty is judged by the **standards of ordinary decent people**
 
@@ -40,6 +43,7 @@ Key principles (from _R v Fuge_, _Walden v Hensler_, etc.):
 - Work as a complete defence if it negates the mens rea
 
 # Finding and Larceny
+[[Ilich v The Queen (1987) 162 CLR 110; [1987] HCA 1]]
 
 When a person finds goods and decides to keep them, it may or may not amount to larceny. The key case is R v MacDonald [1983] 1 NSWLR 729. In that case, the accused found a camera hanging on a fence, asked a nearby person if it belonged to them, and kept it. The court held this could be larceny.
 
@@ -139,7 +143,7 @@ A person is guilty of fraud if they:
 **Obtains property** (s 192C): Includes obtaining ownership, possession or control.
 
 **Financial advantage / disadvantage** (s 192D): Covers both permanent and temporary gains or losses.
-
+[[Elias v Director of Public Prosecutions  (2012) 222 A Crim R 286; [2012] NSWCA 302]]
 ### Other Statutory Offences
 
 - **s 157 Embezzlement by clerks/servants**: Specific offence for employees who fraudulently deal with employer’s property in their custody
