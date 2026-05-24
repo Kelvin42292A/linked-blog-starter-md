@@ -59,6 +59,7 @@ The bulk of the text focuses on pinning down exactly what "reckless" means in cr
 - If a person breaks the AVO by committing an act of actual physical violence, the law states they should go to jail.
 
 # Battery
+[[R v Williams (1990) 50 A Crim R 213]]
 
 ### Physical elements of battery
 
@@ -142,6 +143,7 @@ In criminal law, the word **"Assault"** is an umbrella term that covers two diff
 - **The Limits of Consent:** The prosecution must prove the victim didn't consent. However, the law says a person generally cannot legally consent to having serious injuries inflicted upon themselves.
 
 # Consent
+[[R v Brown [1993] UKHL 19]]
 
 ### Limits of consent
 
@@ -167,6 +169,8 @@ _Note:_ You cannot consent to street fighting, duelling, or prize-fighting. The 
 **The Ultimate Limit** You can **never** legally consent to your own death. Consensual killing is always murder.
 
 ### Sexually transmitted diseases and consent
+[[Zaburoni v The Queen [2016] HCA 12]]
+[[Aubrey v The Queen [2017] HCA 18; (2017) 260 CLR 305]]
 
 **The Old Rule (No Longer Valid)**
 
