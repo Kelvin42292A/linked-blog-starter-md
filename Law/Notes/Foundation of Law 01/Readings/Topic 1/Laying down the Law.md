@@ -47,7 +47,7 @@ Private law is the law between individuals or entities. It deals with for commer
 The law deal between individuals and organizations or maybe both. Civil law usually includes compensation in asset.
 
 ### Criminal Law
-
+[[Hart v Rankin [1979] WAR 144]]
 The law deal with offenders by the states (the government). Criminal law usually deals with wrongdoing and result in punishments such as imprisonment or fines.
 
 ### Doctrine of precedent
