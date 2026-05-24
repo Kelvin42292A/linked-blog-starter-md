@@ -144,6 +144,7 @@ A person is guilty of fraud if they:
 
 **Financial advantage / disadvantage** (s 192D): Covers both permanent and temporary gains or losses.
 [[Elias v Director of Public Prosecutions  (2012) 222 A Crim R 286; [2012] NSWCA 302]]
+[[Moore v R [2016] NSWCCA 260 (1 December 2016)]]
 ### Other Statutory Offences
 
 - **s 157 Embezzlement by clerks/servants**: Specific offence for employees who fraudulently deal with employer’s property in their custody
