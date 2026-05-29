@@ -2,36 +2,32 @@ Court of Criminal Appeal for New South Wales
 
 ### Material Facts
 
-- The appellant (Tolmie) and the complainant had been drinking at a club where they were seen kissing, cuddling and fondling each other.
-- Later that night, they left the group and were alone on a dark path
-- The complainant alleged that Tolmie forced her to the ground and had sexual intercourse with her without her consent, despite her protests
-- Tolmie denied using force and claimed the sexual intercourse was fully consensual
-- He was charged with sexual intercourse without consent under [sections 61I](https://anzlaw.thomsonreuters.com/Link/Document/FullText?refType=U7&docFamilyGuid=If4b9b741d10a11e8a07cfaeacc13e49f&pubNum=1100190&originationContext=document&transitionType=DocumentItem&docVersion=Law%20in%20Force&ppcid=1ebb852e9f0048ab9c702a3367f2b6ea&contextData=\(sc.UserEnteredCitation\)&comp=wlau) of the *Crimes Act 1900 (NSW)
-- The jury convicted him. He was sentenced to 4 years imprisonment with a 2 year minimum term
+- The appellant and the complainant were drinking with a group and were seen kissing and cuddling at a club.
+- Later, while walking alone on a dark dirt path, the complainant alleged the appellant violently forced her to the ground, ignored her cries to stop, ripped her clothes, and had sexual intercourse with her without consent.
+- She immediately escaped, ran to a stranger's house half-naked, and reported the rape.
+- At trial, the appellant admitted to the intercourse but claimed it was completely consensual and that the complainant had initiated it.
+- During the trial, the judge directed the jury on "recklessness," instructing them that a person is reckless if they simply fail to consider whether the victim is consenting (even if consent is withdrawn during the act).
+- The jury found the appellant guilty.
 
 ### Issue
 
-- Did the appellant (Tolmie) commit sexual intercourse without consent under [sections 61I](https://anzlaw.thomsonreuters.com/Link/Document/FullText?refType=U7&docFamilyGuid=If4b9b741d10a11e8a07cfaeacc13e49f&pubNum=1100190&originationContext=document&transitionType=DocumentItem&docVersion=Law%20in%20Force&ppcid=1ebb852e9f0048ab9c702a3367f2b6ea&contextData=\(sc.UserEnteredCitation\)&comp=wlau) of the *Crimes Act 1900 (NSW)?
-- Whether the sexual intercourse took place **without the complainant's consent**
-- Whether the appellant **knew** (or was reckless as to whether) the complainant was not consenting
+- Did the trial judge make an error of law by directing the jury that "recklessness" includes a mere failure to consider or think about whether the victim was consenting (inadvertence)?
+- Did the judge err by giving directions about consent being withdrawn _during_ the act?
+- Was the guilty verdict unsafe and unsatisfactory?
 
 ### Rule
 
-Under sections 61I and 61R of the Crimes Act 1900 (NSW), a person is guilty of sexual intercourse without consent if:
-
-1. Sexual intercourse take place
-2. It occurs **without the consent** of the other person
-3. The accused knows that the other person does not **consent**. "Knows" includes recklessness - that is if the accused:
-
-- Realised there was a possibility the complainant was not consenting but proceeded anyway, or
-- Failed to consider whether the complainant was consenting when the risk would have been obvious to someone with the accused's mental capacity.
+- A person is guilty of sexual intercourse without consent if they are "reckless" as to whether the other person consents (_based on ss 61I and 61R(1) of the Crimes Act 1900 (NSW)_).
+- Recklessness is not just consciously ignoring a risk; it also includes a total failure to advert to (think about) the question of consent, if the risk of non-consent would have been obvious to someone with the accused's mental capacity (_based on R v Kitchener and R v Henning_).
+- Recklessness does not apply if the accused held an honest belief that the complainant was consenting (_based on DPP v Morgan and R v Kimber_).
+- If a judge gives a jury direction that is strictly unnecessary but legally correct, it does not cause a miscarriage of justice (_based on Domican v The Queen_).
 
 ### Application
 
-- The jury had to decide whether the complainant consented to sexual intercourse and whether Tolmie knew she was not consenting or was reckless
-- The trial judge directed the jury that Tolmie would be guilty if he realised there was a possibility she was not consenting but went ahead anyway, **of** if he failed to consider the question of consent when the risk was obvious
-- The evidence (complainant's protests, physical struggle, and immediate complaint) supported the jury's finding that there was no consent and that Tolmie was at least reckless as to her lack of consent
+- The Court ruled the trial judge's instruction was legally correct. Reaffirming _R v Kitchener_, the Court held that the law must punish people who are so bent on sexual gratification that they completely fail to give a moment's thought to the victim's consent. Total indifference is legally reckless.
+- The judge's instruction about consent being withdrawn mid-act was unnecessary, because both sides fought the case on all-or-nothing grounds (it was either forced from the start, or completely consensual). However, because the judge stated the law correctly, it was actually overly favourable to the appellant and did not cause an unfair trial.
+- The verdict was safe. The jury was fully entitled to believe the victim's story over the appellant's, especially given the strong physical evidence of dirt and grass on her back, her torn pantihose, and her immediate, distressed complaint to a total stranger.
 
 ### Conclusion
 
-The Court of Criminal Appeal **dismissed** the appeal against conviction. The trial judge's directions on **recklessness** were correct and sufficient
+The appeal against the conviction was **dismissed** and the guilty verdict was upheld. The trial judge's directions on **recklessness** were correct and sufficient
