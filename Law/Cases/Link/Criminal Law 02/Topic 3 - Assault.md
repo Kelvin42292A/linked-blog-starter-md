@@ -5,7 +5,7 @@
 5. [[Brady v Schatzel [1911] St R Qd 206]]
 6. [[Rozsa v Samuels [1969] SASR 205]]
 7. [[Tuberville v Savage (1669) 86 ER 684; [1669] EWHC KB J25]]
-8. [[R v Brown [1993] UKHL 19]]
+8. [[R v Brown [1994] 1 AC 212; (1993) 2 WLR 556; (‘Brown’)]]
 9. [[R v Emmet [1999] EWCA Crim 1710 ('Emmett')]]
 10. [[Department of Health and Community Services (NT) v JWB (Marion’s case) (1992) 175 CLR 218; [1992] HCA 15, 232-235 only]]
 11. [[Aubrey v The Queen [2017] HCA 18; (2017) 260 CLR 305]]

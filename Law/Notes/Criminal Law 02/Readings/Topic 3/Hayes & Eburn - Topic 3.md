@@ -143,7 +143,7 @@ In criminal law, the word **"Assault"** is an umbrella term that covers two diff
 - **The Limits of Consent:** The prosecution must prove the victim didn't consent. However, the law says a person generally cannot legally consent to having serious injuries inflicted upon themselves.
 
 # Consent
-[[R v Brown [1993] UKHL 19]]
+[[R v Brown [1994] 1 AC 212; (1993) 2 WLR 556; (‘Brown’)]]
 
 ### Limits of consent
 
