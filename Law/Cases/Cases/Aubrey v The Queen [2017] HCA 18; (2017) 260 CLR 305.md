@@ -2,34 +2,29 @@ High Court of Australia
 
 ## Material Facts
 
-- The appellant engaged in unprotected anal sexual intercourse with the complainant between January and July 2004.
-- The appellant had been diagnosed as HIV positive and knew he was HIV positive.
-- The Crown did not allege direct or intentional violence but that the complainant contracted HIV as the immediate consequence of the intercourse.
-- The appellant was charged with:
-    - One count of maliciously causing the complainant to contract a grievous bodily disease (HIV) with intent to cause that disease.
-    - In the alternative, one count of maliciously inflicting grievous bodily harm.
-- The appellant was acquitted of the first count but convicted of the second count.
+- Between January and July 2004, the appellant (Aubrey) engaged in unprotected sexual intercourse with the complainant.
+- The appellant had been diagnosed with HIV and knew he was HIV positive, but did not disclose this.
+- The complainant contracted HIV as an immediate consequence of the intercourse.
+- The appellant was convicted of maliciously inflicting grievous bodily harm (GBH) under **s 35(1)(b)** of the **_Crimes Act 1900_ (NSW)**.
 
 ## Issues
 
-- Whether the act of having sexual intercourse with another person and thereby causing the other person to contract a grievous bodily disease is capable of amounting to the infliction of grievous bodily harm within the meaning of s 35(1)(b) of the _Crimes Act_ 1900 (NSW).
-- Whether it is sufficient to establish that the accused acted recklessly within the meaning of s 5 of the _Crimes Act_, and thus maliciously, for the Crown to prove that the accused foresaw the possibility (as opposed to the probability) that the act of sexual intercourse would result in the other person contracting the grievous bodily disease.
+- **Actus Reus:** Can transmitting a sexual disease constitute the "infliction" of grievous bodily harm under **s 35(1)(b)**, or does the word "inflict" legally require the application of direct, immediate physical force or violence?
+- **Mens Rea:** For the fault element of "recklessness" (which establishes "malice" under **s 5**), must the prosecution prove the accused foresaw the _probability_ of the victim contracting the disease, or is foresight of the _possibility_ sufficient?
 
 ## Rule/Law
 
-- Under s 4(1) of the _Crimes Act_ 1900 (NSW), "**Grievous bodily harm** includes any permanent or serious disfiguring of the person."
-- "**Maliciously**" means every act done of malice, or done without malice but with indifference to human life or suffering, or with intent to injure some person, or done recklessly or wantonly (s 5).
-- Under s 36, a person who maliciously by any means causes another person to contract a grievous bodily disease is guilty of an offence.
-- Under s 35(1)(b), a person who maliciously inflicts grievous bodily harm upon another person is guilty of an offence.
+- **s 35(1)(b) _Crimes Act 1900_ (NSW):** The statutory offence of maliciously inflicting grievous bodily harm.
+- **s 5 _Crimes Act 1900_ (NSW):** Defines "maliciously" to include acts done "recklessly".
+- **_R v Clarence (1888)_ (Overruled):** An old English case which previously held that transmitting a disease (gonorrhoea) was _not_ inflicting GBH because it lacked an immediate physical assault or blow. The High Court ruled this decision should no longer be followed in Australia.
+- **_R v Dica (2004)_ and _R v Ireland (1997)_ (Applied):** Established that "inflict" does _not_ require physical violence. The law is "always speaking", meaning the statute adapts to contemporary medical understanding of harm (such as psychiatric injury and infectious diseases).
+- **_R v Coleman (1990)_ (Applied) & _R v Crabbe (1985)_ (Distinguished):** While _Crabbe_ requires foresight of _probability_ for common law murder, _Coleman_ correctly established that for statutory offences like **s 35**, "recklessness" only requires foresight of the _possibility_ of harm.
 
 ## Application/Analysis
 
-- The appellant knew he was HIV positive and engaged in unprotected anal sexual intercourse with the complainant, causing the complainant to contract HIV.
-- Under s 35(1)(b), maliciously inflicting grievous bodily harm includes causing another person to contract a grievous bodily disease by any means, as HIV is a grievous bodily disease.
-- The act of sexual intercourse causing the complainant to contract HIV amounts to the infliction of grievous bodily harm, as "inflicts" covers causing disease without requiring direct force or immediate physical injury.
-- The appellant acted maliciously (recklessly) because he foresaw the possibility of transmitting HIV through unprotected sex but proceeded anyway.
-- Both elements of the offence under s 35(1)(b) are satisfied.
+- **Inflicting GBH:** Applying the "always speaking" approach to statutory interpretation, modern medical knowledge dictates that "inflicting" harm does not just mean a physical blow; it is completely appropriate to speak of inflicting a physical disease. Therefore, transmitting HIV through unprotected intercourse qualifies as inflicting GBH, regardless of the lack of physical violence.
+- **Recklessness:** The High Court confirmed that for this offence, the correct test is whether the accused foresaw the _possibility_ of harm. Because the appellant admitted at trial that he knew there was a real possibility he could infect the complainant by having unprotected sex, and proceeded anyway without disclosing the risk, his actions were legally reckless and therefore malicious.
 
 ## Conclusion
 
-The High Court dismissed the appeal. The appellant’s actions amounted to maliciously inflicting grievous bodily harm under s 35(1)(b).
+The appeal was **dismissed**. The High Court ruled that transmitting HIV through sexual intercourse constitutes inflicting grievous bodily harm, and that foresight of the _possibility_ of harm is the correct standard for recklessness. The original conviction was upheld.
