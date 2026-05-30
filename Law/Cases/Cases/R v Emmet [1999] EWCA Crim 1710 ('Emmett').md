@@ -1,30 +1,31 @@
 Court of Appeal of England and Wales (UK)
+
 ## Material Facts
 
-- At the time of the incidents, the appellant (Stephen Roy Emmett) and the complainant were cohabiting (they later married).
-- The couple engaged in consensual sexual activity which involved the infliction of actual bodily harm.
-- On the first occasion, the appellant covered the complainant’s head with a plastic bag, tied it at the neck with a ligature, and engaged in oral sex with her. This caused restriction of oxygen to the brain. The complainant suffered subconjunctival haemorrhages in both eyes and petechial bruising around her neck. There was a risk of brain damage or death if the restriction continued.
-- On the second occasion a few weeks later, the appellant poured lighter fuel on the complainant’s breasts and set it alight. She suffered a burn measuring approximately 6cm x 4cm, which became infected.
-- The complainant consulted a doctor on both occasions. The doctor became alarmed and informed the police.
-- The appellant was charged with assault occasioning actual bodily harm contrary to s.47 of the Offences Against the Person Act 1861.
+- The appellant and his female partner (whom he later married) engaged in consensual, high-risk sexual activity in private.
+- In the first incident, the appellant tied a plastic bag over the woman's head during sexual activity, causing her to lose consciousness and suffer eye haemorrhages and neck bruising,.
+- In the second incident, he poured lighter fuel on her breasts and set it alight, causing a third-degree burn.
+- The doctor who treated her reported the injuries to the police, and the appellant was charged with assault occasioning actual bodily harm.
 
 ## Issues
 
-Whether consent of the complainant constitutes a defence to a charge of assault occasioning actual bodily harm contrary to section 47 of the Offences Against the Person Act 1861, where two adults engage in consensual sexual activity in private that in fact causes (or risks causing) actual bodily harm.
+- Can consent operate as a defence to a charge of assault occasioning actual bodily harm when adults consensually participate in private sexual activity that foreseeably risks or causes actual bodily harm?
+- Does prosecuting consensual private sexual activities breach **Article 8 of the European Convention on Human Rights** (the right to respect for private and family life)?
 
 ## Rule/Law
 
-- In _R v Brown_ [1994] AC 212, the House of Lords held that consent is not a defence to a charge of assault occasioning actual bodily harm contrary to s.47 of the Offences Against the Person Act 1861 where the injuries caused are more than transient or trifling, even if the acts are consensual and done in private.
-- Consent is a defence to common assault, but not to the infliction of actual bodily harm unless the activity falls within recognised exceptions (such as lawful surgery, properly conducted sports, or tattooing).
-- It is not in the public interest for people to cause or consent to the infliction of actual bodily harm for no good reason.
+- **s. 47 _Offences Against the Person Act 1861_:** The statutory offence of assault occasioning actual bodily harm.
+- **_R v Brown_ (Applied):** The House of Lords held that consent is **no defence** to charges of actual bodily harm (or worse) deliberately inflicted during sadomasochistic encounters, because society must be protected against conduct that holds the potential for serious injury.
+- **_Attorney-General's Reference No 6 of 1980_ (Applied):** It is not in the public interest for people to cause each other actual bodily harm for "no good reason," meaning most physical violence is unlawful regardless of consent.
+- **_R v Wilson_ (Distinguished):** In _Wilson_, a husband branding his initials on his wife's buttocks with her consent was not criminal, because the court likened it to tattooing (a desirable personal adornment) and found no evidence of significant harm or dangerousness,,.
+- **Article 8 _European Convention on Human Rights_ / _Laskey v United Kingdom_:** Article 8 does not invalidate domestic laws that forbid intentionally harmful physical violence, nor does it grant a right to indulge in dangerous sadomasochistic acts,,.
 
 ## Application/Analysis
 
-- The Court applied the principle from _R v Brown_ that consent is not a defence to assault occasioning actual bodily harm under s.47 where the harm is more than transient or trifling.
-- The injuries and potential harm in this case went well beyond transient or trifling injury and involved a foreseeable risk of serious harm.
-- The Court distinguished _R v Wilson_ [1996] 2 Cr App R 241, noting that the activities here created a much greater degree of actual and potential harm than the branding in _Wilson_.
-- The level of danger and unpredictability of injury made it appropriate for the criminal law to intervene, regardless of consent.
+- **Distinguishing _Wilson_:** The appellant tried to argue his case was like _Wilson_. However, the Court ruled the danger and injuries in _Emmett_ went "far beyond" the tattooing comparison in _Wilson_. Asphyxiation carries a grave, known danger of brain damage or death, and setting fire to breasts caused excruciating burns.
+- **The Threshold of Harm:** Applying _**Brown**_, the Court held that when sexual conduct objectively reveals a "realistic risk of a more than transient or trivial injury," it crosses the line. The unpredictability and severe danger to life and body made it proper for the criminal law to intervene, regardless of consent.
+- **Human Rights:** Following _**Brown**_ and _**Laskey**_, intervening to stop dangerous violence that results in severe injury does not violate the right to privacy under Article 8.
 
 ## Conclusion
 
-The appeal against conviction was dismissed. The Court held that consent was not a defence to the charges of assault occasioning actual bodily harm under s.47 of the Offences Against the Person Act 1861.
+The appeal against the conviction was **dismissed**. The Court upheld the trial judge's ruling that consent cannot amount to a defence to **s. 47** charges when the consensual sexual activity involves a considerable degree of danger to life or serious bodily injury.
