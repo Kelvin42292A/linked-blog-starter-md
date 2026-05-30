@@ -2,32 +2,30 @@ Supreme Court of Queensland
 
 ## Material Facts
 
-- The appellant (Brady) was at her residence when the respondent, accompanied by two other men, went there to interview a boy named Richter.
-- While the three men were speaking to the boy, the appellant ordered the boy to go inside.
-- The appellant then went into her house and returned carrying a rifle.
-- She appeared to open the breech, place something in it, and a click was heard.
-- She placed the butt of the rifle to her right shoulder and pointed the muzzle at the respondent.
-- She said: “This is my law for you bastards. If the lot of you don't clear out of this, I will put something in your bloody arses.”
-- The respondent claimed he was not scared and that he had a revolver with him at the time.
-- The appellant’s solicitor claimed there was no evidence the rifle was loaded.
+- The respondent went to the appellant’s residence, where the appellant came out with a rifle, clicked the breech as if loading it, pointed it at the respondent, and threatened to shoot him.
+- The respondent (who had a revolver but didn't draw it) testified: "I was not a bit scared," stating he just wanted to give her time to cool down.
+- The appellant claimed the rifle was not loaded and denied pointing it at him.
+- The appellant was convicted of common assault.
 
 ## Issues
 
-Whether the appellant’s act of pointing the rifle at the respondent, together with her threatening words, amounted to an assault
-
-Whether there was an assault even if there was no evidence that the rifle was loaded
+- Can a person be guilty of assault for pointing a firearm if the victim is courageous and "not a bit scared"?
+- Can an unloaded firearm still constitute an assault based on the "present ability" to carry out a threat?
 
 ## Rule/Law
 
-- Under **The Criminal Code, s. 245**, an assault is committed when a person by any bodily act or gesture threatens to apply force of any kind to the person of another without his consent, under such circumstances that the person making the threat has **actually or apparently a present ability** to effect his purpose.
-- Pointing a rifle at another person while making a threat to shoot (e.g. “I will put something in your bloody arses”) can amount to an assault, even if there is no evidence the rifle was loaded, if the act creates an **apparent present ability** to carry out the threat.
+- **s. 245 _The Criminal Code_:** Defines assault as threatening to apply force where the person making the threat has "actually or apparently a present ability to effect his purpose".
+- **The "Fear" Rule:** It is **not material** that the person assaulted is actually put in physical "fear". An apprehension or expectation of assault is sufficient. (The court clarified Parke B.'s comments in _**R v St. George**_, noting that assault should not depend on whether a victim is courageous or timid).
+- **The "Loaded Firearm" Rule:**
+    - If the firearm is loaded, there is an **actual present ability** to effect the purpose.
+    - If the firearm is unloaded, but the person pretends it is loaded, they have an **apparent present ability** to effect the purpose. Both scenarios constitute an assault.
 
 ## Application/Analysis
 
-- The appellant went inside, returned with a rifle, appeared to load it (opened the breech, placed something in it, and click was heard), pointed it at the respondent, and threatened to shoot him if they did not leave
-- These actions (pointing the rifle + threatening words) showed an apparent present ability to apply force.
-- This amount to an assault, even though the respondent said he was not scared and had a revolver, and even though there was no evidence the rifle was actually loaded
+- **On the victim's lack of fear:** The respondent's testimony that he was "not a bit scared" did not defeat the assault charge. Assault depends on the intent and actions of the attacker, not on the bravery of the victim.
+- **On the gun being loaded:** The appellant's threat to fire, combined with her clicking the breech, was sufficient evidence for the Justices to infer the rifle was loaded (giving her _actual_ present ability).
+- **On the alternative (unloaded gun):** Even if the rifle was completely empty, her actions in pretending it was loaded meant she had an _apparent_ present ability to carry out her threat, which perfectly satisfies the legal definition of assault under s. 245.
 
 ## Conclusion
 
-The appeal was dismissed. The appellant’s act of pointing the rifle at the respondent while making a threat to shoot him amounted to an assault.
+The appeal (order nisi) was **discharged**. The Court ruled that the appellant's actions legally constituted an assault regardless of the victim's bravery or whether the gun was actually loaded, upholding the original conviction.
