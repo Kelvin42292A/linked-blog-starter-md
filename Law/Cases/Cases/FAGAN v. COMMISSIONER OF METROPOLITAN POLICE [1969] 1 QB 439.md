@@ -15,30 +15,21 @@ Divisional Court (UK)
 
 ## Issues
 
-Whether the appellant committed an assault by driving his car onto the police constable’s foot and then deliberately keeping the wheel on the foot for a period of time after being repeatedly told to move, even if the initial contact may have been unintentional.
+- Can a mere **omission** to act (failing to move the car) constitute an assault?
+- If an initial physical act is accidental (lacking intent/mens rea), can the later formation of intent convert that existing physical act into an assault? Specifically, was leaving the car on the foot a "completed act" or a **"continuing act"**?
 
 ## Rule/Law
 
-- Assault is any act which **intentionally** (or possibly recklessly) causes another person to apprehend immediate unlawful personal violence.
-- When assault involves a **battery**, it means the actual application of unlawful force on another person.
-- Unlawful force (battery) can be inflicted **directly** by the body or **through an object** controlled by the defendant (e.g. a car).
-- Both **actus reus** (guilty act) and **mens rea** (guilty mind / intention) must be present **at the same time**.
-- However, **mens rea** does not need to exist at the very start of the act. It can be **superimposed** later if the act is a **continuing act**.
-- A **continuing act** is one that is ongoing, not yet completed. Once mens rea is formed during this continuing act, the whole conduct becomes a criminal assault.
-- A **mere omission** (simple failure to act with no positive act) cannot amount to an assault
-
-This principle is supported by _Hunter v Johnson_ (1884).
+- An assault (which practically includes "battery") is any act which intentionally (or possibly recklessly) causes another person to apprehend immediate and unlawful personal violence, or the actual intended use of unlawful force without consent.
+- An assault requires an intentional act; a **mere omission to act cannot amount to an assault**.
+- Both the _actus reus_ (the physical action) and _mens rea_ (the guilty intent) must be present at the same time.
+- However, if a physical act is a **continuing act** (rather than an act that is complete but has continuing results), _mens rea_ does not need to be present at the start; it can be **superimposed** onto the continuing act later.
 
 ## Application/Analysis
 
-- The justices had **doubt** whether Fagan **initially** intended to drive onto the constable’s foot (may have been accidental).
-- Once the wheel was on the foot, Fagan **knew** it was there because the constable shouted “Get off my foot!” several times.
-- Fagan then formed **mens rea** — he intentionally and provocatively decided to keep the wheel on the foot (said “Fuck you, you can wait”, turned off the engine, and delayed moving).
-- The **actus reus** (wheel pressing on the foot) was a **continuing act** — it continued until the car was reversed off.
-- During this continuing act, Fagan’s **mens rea** was **superimposed** on the ongoing actus reus.
-- Therefore, both _actus reus_ and _mens rea_ existed at the same time, completing the offence of assault.
-- Fagan’s conduct was not a mere omission — it was part of a continuing positive act.
+- **Majority View (Lord Parker CJ and James J):** Leaving the wheel on the foot was not a mere omission; it was a physical battery that continued as long as the wheel rested there. Even if the initial driving onto the foot was accidental (no _mens rea_), the _actus reus_ was continuing. When Fagan realized he was on the foot, switched off the ignition, and used defiant words, he formed the necessary intent (_mens rea_). This intent was superimposed on the continuing physical act, completing the crime of assault.
+- **Dissenting View (Bridge J):** Bridge J disagreed, arguing that once the car accidentally came to rest on the foot, the physical act was complete. Fagan's subsequent failure to move the car was merely an omission to act, which legally cannot constitute an assault.
 
 ## Conclusion
 
-The Court dismissed the appeal. Fagan was correctly convicted of assault as his continuing act and later mens rea satisfied both elements of the offence.
+The appeal was **dismissed** (by a majority decision). The court ruled that the appellant's conduct was a continuing act of battery which became criminal the moment he formed the intention to leave the car on the constable's foot. The original assault conviction was upheld.
