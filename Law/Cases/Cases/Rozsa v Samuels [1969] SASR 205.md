@@ -1,63 +1,33 @@
 Supreme Court of South Australia
 
-### Material Facts
+## Material Facts
 
-The appellant (Samuels) and the respondent (Drummond) were both taxi drivers at Adelaide Airport.
+- The appellant (Rozsa) jumped the queue at an airport taxi rank in his taxi.
+- Another taxi driver (Drummond) got out, approached the appellant, and threatened to punch him in the head.
+- The appellant reached under his dashboard, produced a table knife, and said: "I will cut you to bits if you try it." He then made a move to get out of the taxi.
+- Frightened, Drummond backed off and slammed the taxi door shut to stop him.
+- The appellant was convicted of assault under **s. 39** of the _**Criminal Law Consolidation Act 1935-1966**_.
 
-The appellant drove his taxi and stopped in front of Drummond’s taxi, which was first in the queue at the taxi rank.
+## Issues
 
-Drummond got out of his taxi and objected to the appellant pushing in.
+- Can a _conditional_ threat of violence (e.g., "if you do X, I will do Y") legally constitute an assault?
+- Did the appellant's conditional threat with a knife go beyond the lawful bounds of reasonable self-defence?
 
-Drummond threatened to punch the appellant in the head.
+## Rule/Law
 
-In response, the appellant reached under the dashboard, produced a table knife, held it in his hand and said: “I will cut you to bits if you try it.”
+- **s. 39 _Criminal Law Consolidation Act 1935-1966_:** The statutory offence of assault.
+- **General Rule for Assault:** Unlawfully displaying force to create a fear in the victim's mind that force is about to be used against them.
+- **_Tuberville v Savage_ (Distinguished):** Words can negate a physical gesture (meaning no assault occurs), but _only_ if the words clearly indicate the person does not actually intend to use force.
+- **_Police v Greaves_ (Applied):** A threat to apply force unless the victim complies with a condition _can_ be an assault.
+- **Self-Defence Test for Conditional Threats:** To determine if a conditional threat is lawful, you must ask: If the victim _had_ carried out their threat, would the accused have been legally justified in using the threatened force in self-defence?
+- **Duty to Avoid:** A person threatened with violence must take other reasonable means to avoid the force before resorting to self-defence.
 
-The appellant then started to get out of his taxi, but Drummond slammed the door shut.
+## Application/Analysis
 
-The appellant was charged with assault under s.39 of the Criminal Law Consolidation Act 1935-1966.
+- **Conditional Threats:** The words "I will cut you to bits if you try it" did not negate the threat like the words in _**Tuberville v Savage**_. Instead, they confirmed an active threat to use the knife.
+- **Self-Defence:** Applying the self-defence test: If Drummond _had_ punched Rozsa, Rozsa would **not** have been legally justified in stabbing Drummond with a knife. Using a deadly weapon to defend against a punch goes "beyond the ordinary bounds of self-defence" because it is disproportionate/excessive force.
+- **Failure to Avoid:** Before resorting to threatening with a weapon, Rozsa had other reasonable ways to avoid the punch, such as locking his taxi door, moving out of reach to the passenger side, or simply driving away.
 
-The case was heard summarily by a Special Magistrate in Adelaide.
+## Conclusion
 
-The Magistrate convicted the appellant and fined him $25.
-
-The Magistrate accepted Drummond’s evidence that he only threatened to punch the appellant and did not actually strike him.
-
-### Issues
-
-Whether the appellant’s act of producing a table knife, holding it, and saying “I will cut you to bits if you try it” (a conditional threat), combined with beginning to get out of the taxi, amounted to an assault.
-
-Whether the appellant was acting in reasonable self-defence when he threatened the respondent with the knife.
-
-### Rule/Law
-
-An assault occurs when a person unlawfully displays force (such as by gesture or weapon) in a way that creates a resonable fear or belief in the mid of theAn assault occurs when a person unlawfully displays force (such as by gesture or weapon) in a way that creates a reasonable fear or belief in the mind of the other person that unlawful force is about to be used against them, and the person displaying the force intends to create that belief.
-
-A conditional threat (e.g. “I will cut you if you try it”) can still amount to an assault, even if the threat is made conditional upon the other person doing (or not doing) something. (Tuberville v. Savage and Police v. Greaves)
-
-A threat of violence with a weapon (such as a knife) is more likely to constitute an assault, particularly where the force threatened is greater than what is reasonably necessary.
-
-In self-defence, a person may use reasonable force to protect themselves, but:
-
-The force used must be proportionate to the threat faced.
-
-The person must take all reasonable steps available to avoid the need to use force (e.g. retreating, locking the door, or moving away) before resorting to force.
-
-Using a deadly weapon such as a knife to respond to a threatened punch (common assault) is generally excessive and goes beyond the bounds of reasonable self-defence.
-
-### Application/Analysis
-
-The court applied the law of assault and found that the appellant’s actions — displaying the knife and making the conditional threat — created fear in Drummond that force was about to be used against him.
-
-The conditional nature of the threat (“if you try it”) did not prevent the actions from amounting to an assault.
-
-On self-defence, the court considered that the appellant could have avoided the threatened punch by moving his taxi from the front of the queue, closing and locking the door, or moving to the other side of the seat.
-
-Instead of taking these reasonable steps, the appellant produced a knife and began to get out of the taxi.
-
-The court found that threatening to use a knife went beyond what was reasonably necessary to defend against a threatened punch and was not a reasonable response in the circumstances.
-
-Therefore, the appellant was not acting in reasonable self-defence.
-
-### Conclusion
-
-The appeal was dismissed with costs. The court held that the appellant’s conditional threat with the knife constituted an assault and was not justified by reasonable self-defence.
+The appeal was **dismissed**. The Court ruled that a conditional threat to use excessive/unjustified force constitutes an assault. The original conviction was upheld.
