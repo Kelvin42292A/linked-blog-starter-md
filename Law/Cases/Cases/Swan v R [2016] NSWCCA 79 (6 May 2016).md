@@ -2,35 +2,31 @@ Supreme Court of New South Wales
 
 ## Material Facts
 
-- On 12 February 2013 at Cessnock, the appellant (in company with others) was involved in an incident where Jason Dewey was assaulted and suffered injury.
-- The appellant was charged with three counts on indictment:
-    - Count 1: Affray (guilty).
-    - Count 2: Recklessly causing grievous bodily harm in company (guilty).
-    - Count 3: Assault occasioning actual bodily harm in company (alternative to Count 2; no verdict taken).
-- The appellant was convicted on Counts 1 and 2.
+- The appellant (Swan) was part of a mob of about ten men who attacked the victim at his home, punching and kicking him.
+- The victim suffered several injuries, the most serious being a fractured transverse process (part of the L3 vertebra in the lower back).
+- The treating doctor testified that the fracture was "stable," required no surgery or back brace, and was expected to heal fully without permanent consequence. The doctor described the spinal injury as "minor" (a 3 out of 10 for that specific type of fracture).
+- The victim was hospitalised for 48 hours and could not do physical work for 4-6 weeks due to pain.
+- A jury convicted the appellant of **recklessly causing grievous bodily harm (GBH) in company** under **s 35(1)** of the **_Crimes Act 1900_ (NSW)**.
 
 ## Issues
 
-- Whether the jury’s verdict on Count 2 (recklessly causing grievous bodily harm in company) was unreasonable or cannot be supported having regard to the evidence.
-- In particular, whether the injury suffered by the victim (fracture to the L3 transverse process) amounted to “grievous bodily harm”.
+- Did the victim's fractured vertebra amount to **"grievous bodily harm"**?
+- Was the jury's verdict unreasonable and unsupportable on the medical evidence provided?
 
 ## Rule/Law
 
-- Under **s 35(1) Crimes Act 1900 (NSW)**, a person who maliciously by any means causes grievous bodily harm to any person is guilty of an offence (maximum 7 years, or 10 years if in company).
-- “**Grievous bodily harm**” means really serious bodily injury (not requiring permanence or life-threatening consequences, but more than actual bodily harm).
-- “**Actual bodily harm**” means any hurt or injury that interferes with the health or comfort of the victim (includes bruising, but less serious than grievous bodily harm).
-- The alternative offence under **s 59(2)** is assault occasioning actual bodily harm in company (maximum 7 years).
-- On appeal, if the evidence does not support grievous bodily harm on Count 2, the court may quash that conviction and substitute a conviction on the alternative Count 3 (s 7(2) Criminal Appeal Act 1912).
+- **s 35(1) _Crimes Act 1900_ (NSW):** The statutory offence of recklessly causing grievous bodily harm in company.
+- **s 59(2) _Crimes Act 1900_ (NSW):** The lesser statutory offence of assault occasioning actual bodily harm (ABH) in company.
+- **_Director of Public Prosecutions v Smith (1961)_ & _R v Miller (1951)_ (Applied):** "Grievous bodily harm" is to be given its ordinary and natural meaning, which is **"really serious bodily injury"**.
+- **_R v Overall (1993)_ (Applied):** The difference between actual bodily harm (any hurt interfering with health/comfort) and grievous bodily harm is merely one of degree; one is more serious than the other.
+- **The _Swan_ Principle on Assessing GBH:** When deciding if an injury is "really serious", a jury must look _only_ at the injury itself and its direct physical effects, and must **ignore** subjective personal, social, or economic consequences (e.g., whether the victim's specific job is heavily impacted).
 
 ## Application/Analysis
 
-- The Crown relied on a fracture to the L3 transverse process (plus minor lacerations/bruising) as grievous bodily harm under s 35(1).
-- Dr Ting described the fracture as “minor”, stable, requiring no surgery or follow-up, with short-term disability (4-6 weeks off physical work) and expected full recovery.
-- The victim had pain for weeks (unable to walk properly for 2-3 days), but continued to have only occasional pain on heavy activity 16 months later.
-- Applying the rule, this injury does not reach the level of “really serious bodily injury” required for grievous bodily harm.
-- The evidence supports only actual bodily harm (which interferes with health/comfort), not grievous bodily harm.
-- Therefore, the jury’s verdict on Count 2 was unreasonable and cannot be supported by the evidence.
+- **Majority View (Garling J & R A Hulme J):** The Court held that the jury's verdict was unreasonable. While a fractured vertebra _can_ be GBH, in this specific case, the injury lacked the features of "really serious bodily injury". It was undisplaced, required no surgery, left no permanent injury, had no follow-up treatment plan, and the medical expert explicitly called it "minor". Because of these facts, no reasonable jury could be satisfied beyond a reasonable doubt that the injury was GBH.
+- **Alternative Verdict:** Because the injury clearly interfered with the victim's health and comfort (causing pain and restricting movement), it easily satisfied the lesser threshold of "actual bodily harm" (ABH).
+- _(Dissenting View - Wilson J):_ Argued that a spinal fracture requiring hospitalisation, 4-6 weeks off work, and causing months of pain could reasonably be assessed by a jury as "really serious".
 
 ## Conclusion
 
-The conviction on Count 2 is quashed. A conviction is substituted on Count 3 (assault occasioning actual bodily harm in company). The appellant is re-sentenced accordingly.
+Leave to appeal was **granted**, and the appeal was allowed. The conviction for recklessly causing GBH in company (**s 35(1)**) was **quashed**. The Court substituted a verdict of guilty for the lesser offence of assault occasioning actual bodily harm in company (**s 59(2)**) and resentenced the appellant accordingly.
