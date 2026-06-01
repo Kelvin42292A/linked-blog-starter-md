@@ -2,29 +2,30 @@ Supreme court of New South Wales
 
 ## Material Facts
 
-- Daley and Smith (the prisoners) were entrusted with a cheque belonging to Peter Jansen as bailees (to hold for him)
-- They later dishonestly converted the cheque to their own use with intent to defraud
-- They were charged with larceny as bailees - stealing a **valuable security** and **a piece of paper**
-- The jury convicted them of stealing **a piece of paper**
-- The case was reserved for Supreme Court on whether the conviction was correct
+- The prisoners (Daley and Smith) received a cheque from a man named Jansen.
+- They were entrusted with the cheque as bailees for the specific purpose of giving it to a Mrs. Matthews to take care of for Jansen.
+- After honestly receiving the cheque, the prisoners converted it to their own use with the intent to defraud.
+- The information (charge) against the prisoners described the stolen item both as a "valuable security" and as a "piece of paper".
+- Under the direction of the Chairman of Quarter Sessions, the jury convicted the prisoners of stealing "a piece of paper" and sentenced them to two months of hard labour.
 
 ## Issues
 
-- Whether the trail judge was correct in directing the jury that they could convict the prisoners of larceny for stealing **a piece of paper** (the cheque), even though it was also a valuable security
-- Whether the judge should have directed the jury to acquit if they found that the prisoners received the cheque as bailees and later converted it (following _Reg v Goodison_)
+- Can a cheque, when described in an indictment merely as a "piece of paper", constitute "goods and chattels" for the purpose of a larceny charge against a bailee?
+- Did the Chairman err in directing the jury to convict the prisoners for stealing a piece of paper, given the precedent in _Reg. v. Goodison_?
 
 ## Rule/Law
 
-- Under **s 1 of the Bailee Act (22 Vic. No. 9)**: A bailee who, with intent to defraud converts goods or chattels entrusted to him is guilty or larceny
-- **Reg v Goodison (10 S.C.R. 53)**: A cheque (valuable security) is **not** “goods and chattels” within the meaning of Bailee Act
-- However, a cheque **can** be charged and treated as “**a piece of paper**”, which **is** goods and chattels at common law and under the Bailee Act. A conviction on this basis is valid (R v Daley & Smith)
+- **s. 1 _Bailee Act (22 Vic., No. 9)_:** States that if any person, being a bailee of "goods or chattels," converts them to their own use with intent to defraud, they shall be guilty of larceny.
+- **_Reg. v. Goodison_ (Distinguished):** Previously held that a cheque, when charged as a "valuable security", does **not** fall within the meaning of "goods and chattels" under the _Bailee Act_.
+- **_Reg. v. Perry_ (Applied):** Established that a person _can_ be convicted of the larceny of a cheque if it is described in the indictment simply as "a piece of paper".
+- **The "Piece of Paper" Rule:** A piece of paper has an appreciable, intrinsic value sufficient to bring it within the common law meaning of "goods and chattels" for a larceny charge.
 
 ## Application/Analysis
 
-- The prisoners received the cheque as **bailees** and later dishonestly converted it to their own use with intent to defraud
-- The trail judge directed the jury that they could convict the prisoners of larceny if they found the prisoners stole the cheque **described as a piece of paper**
-- Although a cheque as a “valuable security” is not “goods and chattels” under the Bailee Act (Reg v Goodison), a cheque **can** properly be described and treated as a **piece of paper,** which **is** goods and chattels.
+- **The Technical Workaround:** The defence argued that because a cheque (a valuable security) isn't considered "goods and chattels" under _Goodison_, the prisoners couldn't be convicted under the _Bailee Act_. However, Faucett J noted that while it seems strange that a person can be convicted of stealing an item if called a "piece of paper" but not if called a "valuable security", the Court was bound to follow the precedent set in _Reg. v. Perry_.
+- **Defining Goods and Chattels:** Sir W. Manning J agreed, pointing out that because a piece of paper is legally recognized as "goods and chattels" at common law, there is no logical reason it should not also be considered "goods and chattels" under the _Bailee Act_.
+- **Practical Benefits:** The Court observed that there are often very good practical reasons for prosecutors to charge the theft of a cheque as the theft of a piece of paper, such as when it is technically difficult to legally prove the financial value of a cheque drawn by a person located far away.
 
 ## Conclusion
 
-Appeal dismissed. Conviction upheld.
+The conviction was **sustained**. The Supreme Court ruled that the prisoners were rightly convicted of stealing a "piece of paper" under the _Bailee Act_.
