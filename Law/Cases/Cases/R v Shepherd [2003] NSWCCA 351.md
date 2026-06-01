@@ -2,35 +2,31 @@ New South Wales Court of Criminal Appeal
 
 ## Material Facts
 
-- On 7 April 2002 at about 8 pm, the appellant (with two others) was involved in a brawl at a cafe attached to the Shell Service Station at Wilcannia.
-- The appellant had been drinking wine during the day.
-- The appellant entered the cafe, asked for food but had no money, became angry when credit was refused, and shouted at the shopkeeper (captured on video).
-- He later returned with his companions. He threw a garbage bin at the shopkeeper.
-- The shopkeeper was then attacked with a baseball bat and stabbed with a knife (by co-offender Williams). The appellant joined in the fray.
-- The appellant pleaded guilty to:
-    - Count 1: Affray (s 93C Crimes Act 1900).
-    - Count 2: Malicious wounding (s 35(1) Crimes Act 1900).
+- The appellant (Shepherd) and a group of co-offenders were involved in a brawl at a service station cafe.
+- One of the co-offenders (Williams) had a concealed knife, which he produced and used to stab the shopkeeper.
+- During the brawl, the shopkeeper also sustained a split upper and lower lip, which was inflicted by a punch from Williams.
+- Shepherd pleaded guilty to **malicious wounding**. The trial judge sentenced him to 3 years and 9 months in prison.
+- Crucially, the trial judge could _not_ find beyond a reasonable doubt that Shepherd knew Williams had a knife. Therefore, his conviction for "wounding" legally relied purely on his complicity in the split lip caused by the punch.
 
 ## Issues
 
-- Whether there was sufficient evidence that the appellant knew Williams had a knife and therefore contemplated the possibility that it might be used in the attack.
-- Whether the appellant’s degree of involvement made him “as guilty as” the co-offenders for the purposes of sentencing.
+- What constitutes a **"wounding"** under the _Crimes Act_?
+- Was the sentence manifestly excessive given that the appellant's complicity only extended to a split lip caused by a fist, rather than a stabbing with a weapon?
 
 ## Rule/Law
 
-- Under **s 35(1) Crimes Act 1900 (NSW)**: Whosoever maliciously by any means wounds any person is guilty of an offence (maximum 7 years imprisonment).
-- To prove malicious wounding where the appellant did not personally inflict the wound, the prosecution must show:
-    - The co-offender (Williams) intended to strike the victim and cause a wounding (breaking of the skin).
-    - The appellant knew or foresaw the possibility that a wounding would occur.
-    - The appellant intentionally assisted or encouraged the co-offender to commit the offence (**R v Stokes and Difford** (1990) 51 A Crim R 25).
+- **s 35(1) _Crimes Act 1900_ (NSW):** The statutory offence of malicious wounding (carrying a maximum penalty of 7 years imprisonment).
+- **_R v Newman (1948)_:** Defines a "wounding" as the infliction of an injury which breaks the continuity of the skin.
+- **_R v Smith (1837)_:** Clarifies that a "wound" must involve the breaking or cutting of _both_ the interior layer of the skin (dermis) and the outer layer (epidermis).
+- **_R v Bullock (1868)_:** A wound may be inflicted by a fist; no instrument or weapon is strictly necessary.
+- **_R v Fernando (1992)_:** Established principles for sentencing Aboriginal offenders, taking into account deprived upbringings and alcohol issues.
 
 ## Application/Analysis
 
-- The appellant told police he did not know about the knife and did not remember seeing it. He said he had his back turned for much of the incident.
-- The sentencing judge could not find beyond reasonable doubt that the appellant knew Williams had a knife or contemplated its use.
-- Without that knowledge, the chain of mens rea is broken. The appellant cannot be guilty of malicious wounding under s 35(1) on the basis of assisting a knife attack.
-- The facts still support guilt for the lesser alternative of assault occasioning actual bodily harm in company
+- **The "Wounding":** Applying _**R v Newman**_ and _**R v Smith**_, the Court noted that a split lip inflicted by a punch does technically break the skin and therefore constitutes a "wounding" under the law. However, the Court stressed that it is a wounding "only in the most technical sense" and is at the absolute lowest end of objective seriousness.
+- **The Sentence:** Because the trial judge found Shepherd did not know about the knife, he could only be sentenced for foreseeing and assisting in a physical assault resulting in a split lip. Given that the 7-year maximum penalty for s 35(1) encompasses severe knife stabbings, the trial judge's starting point of 5-6 years for a split lip was completely disproportionate and manifestly excessive.
+- **Subjective Factors:** Shepherd's criminality was at the lower end of the scale, he was somewhat led by the older co-offender, he pleaded guilty early, and he had a strong subjective case under the _**Fernando**_ principles.
 
 ## Conclusion
 
-The conviction on Count 2 (malicious wounding) is quashed. A conviction is substituted on the alternative offence of assault occasioning actual bodily harm in company. The appellant is re-sentenced accordingly.
+Leave to appeal was **granted** and the appeal was **allowed**. The Court found the original sentence was manifestly excessive. The sentence was **quashed** and the appellant was resentenced to a significantly reduced term of 2 years imprisonment with a non-parole period of 1 year.
