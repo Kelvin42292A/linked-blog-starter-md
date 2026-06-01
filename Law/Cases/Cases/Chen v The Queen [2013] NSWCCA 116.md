@@ -2,30 +2,30 @@ Court of Criminal Appeal New South Wales
 
 ## Material Facts
 
-- On 19 March 2011 at Haymarket, the applicant (in company) became involved in a confrontation outside a karaoke bar.
-- The applicant Siwen Chen kicked the victim (Mr Jing) in the stomach, causing him to fall.
-- The applicant Siwen Chen then produced a flick knife (15 cm long with a 7 cm blade) and deliberately slashed the victim’s right arm, causing a deep laceration requiring 15 sutures and surgical exploration.
+- The applicant (Chen) was involved in a completely unprovoked altercation outside a karaoke bar.
+- He kicked the victim in the stomach, pulled out a 15cm flick knife, and slashed the victim's right arm. The deep laceration required 15 sutures.
+- The applicant pleaded guilty to **reckless wounding in company**.
+- The trial judge noted the victim was "deliberately kicked and slashed" and that the offender "clearly intended to cause some injury", sentencing him to 3 years imprisonment (with an 18-month non-parole period).
 
 ## Issues
 
-- Whether the sentencing judge erred in finding that the applicant deliberately wounded the victim.
-- Whether the judge erred in his approach to recklessness for the offence of reckless wounding.
-- Whether the sentence was manifestly excessive.
+- Did the sentencing judge err in finding beyond a reasonable doubt that the applicant _deliberately_ wounded the victim (Ground 1)?
+- Did the sentencing judge err regarding the legal element of "recklessness" by failing to apply the principle from _**Blackwell v R**_ to a reckless wounding charge (Ground 3)?
+- Was the sentence manifestly excessive (Ground 7)?
 
 ## Rule/Law
 
-- Under **s 35(3) Crimes Act 1900 (NSW)** (as at the date of the offence): A person who, in the company of another person or persons, recklessly wounds any person is guilty of an offence (maximum 10 years).
-- Recklessness requires foresight of the possibility of actual bodily harm (not necessarily grievous bodily harm or wounding of the exact degree inflicted).
-- Intention to cause some injury can satisfy the mental element where it aligns with recklessness as to wounding (intention may establish recklessness per s 4A Crimes Act).
-- A “wound” involves breaking of the skin (a cut, however caused).
+- **s 35(3) _Crimes Act 1900_ (NSW):** The statutory offence of reckless wounding in company.
+- **s 4A _Crimes Act 1900_ (NSW):** If an element of an offence is recklessness, that element may also be established by proof of **intention** or knowledge.
+- **_Blackwell v R_ :** Held that for the offence of recklessly causing _grievous bodily harm_ (GBH), an offender must foresee the possibility of inflicting GBH, not merely actual bodily harm.
+- **_R v De Simoni_ :** A judge cannot punish an offender for a more serious offence than the one they were charged with.
 
 ## Application/Analysis
 
-- The applicant’s actions (kicking the victim then slashing his arm with a flick knife) were deliberate and voluntary.
-- The judge’s finding that the applicant “intended to cause some injury” was open on the evidence and consistent with recklessness for wounding.
-- The injury (deep laceration requiring surgery) was serious, unprovoked, and involved a weapon.
-- The applicant’s intoxication, remorse, and personal hardship were taken into account, but did not outweigh the objective seriousness.
+- **The "Deliberate" Finding:** The judge's comment that the slashing was "deliberate" simply meant the act was voluntary. Because the applicant pleaded guilty, he inherently admitted to the voluntary act. Furthermore, under **s 4A**, proving that the applicant _intended_ to cause an injury is a perfectly valid way to establish recklessness. This finding did not breach _**R v De Simoni**_ because there was no higher offence strictly based on an "intent to wound" that he could have been punished for instead.
+- **Distinguishing _Blackwell_:** The applicant incorrectly tried to apply _**Blackwell v R**_ to his case. The Court clarified that _Blackwell_ changed the rules for _grievous bodily harm_ (which has gradations of seriousness), but it had **no effect** on the offence of _wounding_. A wound is not subject to gradations; a cut is either inflicted or it is not. Therefore, the mental element for reckless wounding simply remains foreseeing the possibility of a wound.
+- **Manifestly Excessive:** Despite subjective factors like intoxication, remorse, and hardship, the attack was highly violent, unprovoked, and involved a flick knife. Therefore, the 3-year head sentence was not manifestly excessive.
 
 ## Conclusion
 
-Leave to appeal granted. Appeal dismissed. The sentence stands.
+Leave to appeal was **granted**, but the appeal was **dismissed**. The Court rejected all grounds of appeal, and the original conviction and sentence were upheld .
