@@ -2,39 +2,28 @@ Supreme Court of Victoria
 
 ## Material Facts
 
-- Neville Francis Lane, a truck driver employed A.J. Roberts and Sons Ltd, was delivering goods on his employer’s truck
-- While making a delivery at Motor Spares Ltd, he removed a **card of cycle toe-straps** and **two pairs of cycle toe-clips** from broken cartons on the truck
-- He hid the items by moving them a short distance (2-3 feet) and placing them among other cartons on the **same truck**
-- He was observed by an employee of Motor Spars Ltd
-- When confronted, he initially denied knowledge but later admitted he intended to steal the items
-- He was charged with larceny but the magistrate dismissed the charge, ruling there was **no asportation** (no sufficient carrying away) because the goods were not removed from the truck
-- The informant (Wallis) obtained an order to review the dismissal
+- The defendant (Lane) was a truck driver delivering goods in cartons for his employer to Motor Spares Ltd.
+- A witness saw the defendant take cycle toe-straps and toe-clips out of broken cartons and hide them behind other boxes near the front cabin of the truck tray.
+- When confronted by the recipient's manager, the hidden goods were found. The defendant later admitted to the police that he moved them because "it looked like a gift" and that he had intended to steal them.
+- A magistrate initially dismissed the larceny (stealing) charge against the defendant because he had only moved the items around on the truck and had not actually taken the property off the truck or completely out of his employer's possession.
 
 ## Issues
 
-1. Whether there was a sufficient **asportation** (taking and carrying away( to constitute larceny when the defendant moved goods a short distance on the **same truck** with intent to steal them
-2. Whether the magistrate erred in law in holding that the defendant did not remove the goods from his master’s possession
+Does moving goods from one position on a truck to another position on the same truck constitute a sufficient "carrying away" (asportation) for the crime of larceny?
 
 ## Rule/Law
 
-- **Larceny** requires a **taking and carrying away** (asportation) of the property of another with felonious intent
-- **Asportation**: Any movement of the goods from the spot where they were originally placed is sufficient to constitute carrying away, provided it is done with **intent to steal.**
-- It is not necessary to remove the goods from the owner’s premises or vehicle - even a short movement on the **same truck** can amount to asportation
-
-Key Authorities:
-
-- [R v Coslet (1782) 1 Leach 236; 168 ER 220](https://anzlaw.thomsonreuters.com/Link/Document/FullText?findType=Y&serNum=1782274376&pubNum=0005029&originatingDoc=Ic5660340893111e8aca5bab3c9b3f468&refType=IC&originationContext=document&transitionType=DocumentItem&ppcid=b199adbc9211427287df4bf3d53f6e85&contextData=\(sc.Default\))
-- [R v Thompson (1825) 1 Mood CC 78; 168 ER 1192](https://anzlaw.thomsonreuters.com/Link/Document/FullText?findType=Y&serNum=1825062647&pubNum=0005044&originatingDoc=Ic5660340893111e8aca5bab3c9b3f468&refType=IC&originationContext=document&transitionType=DocumentItem&ppcid=b199adbc9211427287df4bf3d53f6e85&contextData=\(sc.Default\))
+- **Asportation (Carrying Away):** For the crime of larceny, any physical movement of the goods with the intent to steal them is sufficient to constitute an asportation.
+- **_R v Coslet (1782)_ (Applied):** Established that removing property from the specific spot where it was originally placed, with the intent to steal, is a sufficient taking and carrying away. In that case, simply moving a parcel of currants from the front of a wagon to the tail of the wagon was enough.
+- **_R v Thompson (1825)_ (Applied):** Affirmed that even the slightest removal of an item (e.g., just lifting a pocketbook out of someone's pocket, even if it falls back in) completes a simple larceny, provided there was an intent to steal.
 
 ## Application/Analysis
 
-- The defendant removed the toe-straps and toe-clips from broken cartons and moved them a short distance (2-3 feet) on the **same truck,** hiding them among other cartons with the **clear intent to steal** them
-- He was seen doing this and later admitted his intention
-- Applying the rule from [R v Coslet](https://anzlaw.thomsonreuters.com/Link/Document/FullText?findType=Y&serNum=1782274376&pubNum=0005029&originatingDoc=Ic5660340893111e8aca5bab3c9b3f468&refType=IC&originationContext=document&transitionType=DocumentItem&ppcid=b199adbc9211427287df4bf3d53f6e85&contextData=\(sc.Default\)) and [R v Thompson](https://anzlaw.thomsonreuters.com/Link/Document/FullText?findType=Y&serNum=1825062647&pubNum=0005044&originatingDoc=Ic5660340893111e8aca5bab3c9b3f468&refType=IC&originationContext=document&transitionType=DocumentItem&ppcid=b199adbc9211427287df4bf3d53f6e85&contextData=\(sc.Default\)), any movement of goods from their original position with felonious intent constitutes sufficient **asportation**
-- It was **not necessary** for the goods to be removed from the truck or the owner’s premises
-
-The magistrate was **wrong in law** in ruling there was no asportation and no removal from the master’s possession. The elements of larceny were satisfied on the evidence.
+- The Supreme Court held that this case was "on all fours" with _R v Coslet_.
+- The defendant physically removed the cycle parts from their original placement inside the broken cartons and placed them in a new location on the truck (hidden behind other boxes),.
+- Because the defendant physically moved the items with the admitted intent to steal them, the legal requirement for "carrying away" (asportation) was completely satisfied.
+- The magistrate was strictly wrong in law to require the goods to be removed entirely from the truck or taken entirely out of the master's possession,.
 
 ## Conclusion
 
-Appeal allowed. Order absolute. Conviction should be entered.
+The order to review was made absolute (the prosecution's appeal was successful). The magistrate's dismissal of the charge was set aside, and the case was remitted back to the court of petty sessions for further proceedings based on the correct legal standard.
