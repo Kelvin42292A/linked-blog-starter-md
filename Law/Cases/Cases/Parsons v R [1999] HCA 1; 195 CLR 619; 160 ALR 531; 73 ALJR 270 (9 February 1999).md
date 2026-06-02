@@ -2,35 +2,30 @@ High Court of Australia
 
 ## Material Facts
 
-- The appellant was employed as national co-ordinator of Canyon Bay Pty Ltd, which sold imported pens.
-- As an undischarged bankrupt, the appellant could not operate the company’s bank account. A director (Mr Nessel) signed blank cheques for the appellant to complete.
-- The appellant falsely represented to five Victorian newsagents that Canyon Bay had secured contracts for cheap copy paper from South East Asia. He induced them to make substantial prepayments (totalling over $160,000) for paper that was never ordered or supplied.
-- The newsagents provided cheques (including some bank cheques) payable to Canyon Bay. These were deposited into the company’s ANZ Bank account. Some funds were used for legitimate business expenses, but most were dissipated by the appellant.
-- The appellant was charged with five counts of dishonestly obtaining property by deception, contrary to **s 81(1) Crimes Act 1958 (Vic)**.
-- He pleaded guilty in the County Court but later sought leave to appeal to the Victorian Court of Appeal, arguing a miscarriage of justice because the cheques were not “property belonging to another”.
-- The Court of Appeal dismissed the application. The High Court granted special leave and heard the appeal.
+- The appellant (Parsons) worked for a company called Canyon Bay Pty Ltd.
+- He falsely represented to several newsagents that he had contracts to supply them with cheap copy paper from South East Asia.
+- Relying on these false representations, five newsagents gave the appellant cheques and bank cheques totalling over $160,000 as prepayments.
+- No paper was ever ordered or supplied, and the funds were dissipated.
+- The appellant pleaded guilty to five counts of **dishonestly obtaining property by deception** under s 81(1) of the _Crimes Act 1958_ (Vic).
+- Despite pleading guilty, he appealed his conviction, arguing that as a matter of law, a cheque cannot be "property belonging to another" and he could not have intended to "permanently deprive" the newsagents of the cheques because a cheque form is eventually returned to the drawer's bank once processed.
 
 ## Issues
 
-- Whether the cheques (including bank cheques) obtained by the appellant from the newsagents constituted **“property belonging to another”** within the meaning of **s 81(1) Crimes Act 1958 (Vic)**.
-- Whether the appellant, by deception, dishonestly obtained that property.
-- Whether the appellant had the **intention of permanently** depriving the newsagents of the cheques.
+- Is a cheque (or bank cheque) considered **"property belonging to another"** for the purposes of the statutory offence of obtaining property by deception?
+- Can a person form the intention to **"permanently deprive"** the drawer of a cheque, given that the physical piece of paper is returned to the banking system upon presentation?
 
 ## Rule/Law
 
-- **Section 81(1) Crimes Act 1958 (Vic):** A person who by any deception dishonestly obtains property belonging to another, with the intention of permanently depriving the other of it, is guilty of an indictable offence.
-- **Section 81(2):** A person is treated as obtaining property if he obtains ownership, possession or control of it. “Obtain” includes obtaining for another or enabling another to obtain or retain the property.
-- **Section 71(1):** “Property” includes money and all other property, real or personal, including things in action and other intangible property.
-- **Section 71(2):** Property is regarded as belonging to any person having **possession or control** of it, or having in it any **proprietary right or interest.**
+- **s 81(1) _Crimes Act 1958_ (Vic):** The statutory offence of dishonestly obtaining "property belonging to another" by deception, with the intention of permanently depriving the other of it.
+- **s 71(1) & (2) _Crimes Act 1958_ (Vic):** Expands the common law definition of "property" to explicitly include "things in action and other intangible property". It states property belongs to anyone having possession, control, or a proprietary right/interest in it.
+- **_Cheques Act 1986_ (Cth):** Governs the legal nature of cheques. A cheque is not merely a piece of paper or a simple _chose in action_; it is a "mandate" directing a bank to pay, contains intrinsic value as a negotiable instrument, and establishes a contract upon delivery.
+- **_R v Preddy_ (UK case - Rejected):** The appellant relied on this UK House of Lords case, which suggested there could be no intent to permanently deprive a drawer of a cheque because the physical paper returns to them. The High Court of Australia rejected this application.
 
 ## Application/Analysis
 
-- The cheques (including bank cheques) were **property** within the broad definition in s 71(1) _Crimes Act 1958_ (Vic) — they were choses in action and tangible instruments with intrinsic value.
-- The cheques **belonged to the newsagents** under s 71(2) because the newsagents had possession and control of them before handing them to the appellant, and held proprietary rights in them.
-- By false representations, the appellant **dishonestly obtained** possession and control of the cheques (s 81(1) and (2)), enabling him (and Canyon Bay) to deposit and use the funds.
-- The appellant had the **intention of permanently depriving** the newsagents of the cheques — once deposited and honoured, the cheques lost their character as valuable securities and were spent.
-- It was irrelevant that the newsagents might eventually receive a copy or record of the paid cheque; the appellant treated the instruments as his own to dissipate the funds.
+- **Property Belonging to Another:** At common law, it was historically difficult to steal a _chose in action_ (like a bank balance) because it lacked physical value. However, the statutory definition in s 71 deliberately overcomes this. Under the _Cheques Act_, once the newsagents drew the cheques, the instruments possessed intrinsic legal and commercial value. Because the newsagents had possession and control of these valuable instruments before handing them over, the appellant clearly obtained "property belonging to another".
+- **Intention to Permanently Deprive:** The High Court rejected the appellant's argument that the cheques would simply return to the drawers. First, unlike in the UK, Australian banking practice usually means the bank retains the paid cheque; it does not go back to the drawer. Second, and more importantly, the "property" in a cheque is its value as a security. Once the appellant cashed the cheques, the pieces of paper became "spent" and lost the very characteristics that made them valuable property in the first place. Therefore, by cashing them, he permanently deprived the newsagents of the cheques' value.
 
 ## Conclusion
 
-Appeal dismissed. Convictions upheld — all elements of s 81(1) were satisfied.
+The appeal was **dismissed**. The High Court ruled that the cheques were property belonging to the newsagents, and the appellant's actions constituted an intention to permanently deprive them of that property. The original conviction was upheld.
