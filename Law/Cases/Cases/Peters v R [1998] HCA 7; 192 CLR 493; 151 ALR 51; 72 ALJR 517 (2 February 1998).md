@@ -2,38 +2,30 @@ Hight Court of Australia
 
 ## Material Facts
 
-- The appellant (a solicitor) was convicted of **conspiracy to defraud the Commonwealth** (Commissioner of Taxation) under ss 81(1)(e) and 86A of the Crimes Act 1914 (Cth)
-- He assisted in sham mortgage transactions to conceal the true source and ownership of funds used by Spong (a drug trafficker) to purchase properties
-- The scheme involved false mortgages (including one to “Dial”) so that proceeds from property sales could be returned to Spong while hiding his income from the Tax Office
-- The appellant knew the mortgages were shams but claimed he was acting only as a solicitor and was not part of any agreement to defraud the Commissioner
-- He was acquitted of conspiracy to pervert the course of justice
+- The appellant (Peters), a solicitor, acted for a client (Spong) who was using proceeds from illegal drug trafficking to purchase real estate.
+- While Peters did not know the money came from drug trafficking, he knowingly helped Spong conceal his identity and the true source of the funds from the Commissioner of Taxation.
+- To do this, Peters arranged the purchase of properties using a shelf company and false names, and executed "sham" mortgages where no money was actually advanced.
+- Peters was convicted of conspiracy to defraud the Commonwealth.
+- At trial, the judge directed the jury on the element of "dishonesty" using the test from the English case _**R v Ghosh**_, telling the jury they had to decide: (1) if the act was dishonest by the standards of ordinary, reasonable people, and (2) if Peters _knew_ it was dishonest by those standards.
 
 ## Issues
 
-1. What are the elements of the offence of **conspiracy to defraud** the Commonwealth?
-2. Is “dishonesty” a separate element of the offence, and if so, what is the correct test (Ghosh objective/subjective vs Salvo subjective claim of right)?
-3. Was the trail judge’s direction to the jury (using the Ghosh test) correct?
+- Is "dishonesty" a separate, independent element of the crime of conspiracy to defraud that must be proven using the _**R v Ghosh**_ objective/subjective test?
+- Did the trial judge's instruction using the _**Ghosh**_ test result in a miscarriage of justice?
 
 ## Rule/Law
 
-- Conspiracy to defraud requires
-    1. An **agreement** between two or more persons;
-    2. To use **dishonest means**;
-    3. With the intention of **prejudicing or imperilling** the rights or interests of another (here, the Commissioner’s right to tax)
-- Dishonesty is **not a separate element** but is inherent in the use of dishonest means and the intent to prejudice another’s interests
-- The Ghosh test (objective + subjective) is **not** the correct test for this offence
-- The Salvo test (belief in legal right) is also **not** generally applicable
-- Proper approach: Identify the alleged dishonest means and knowledge/belief, then determine if they amount to dishonesty by ordinary standards (jury question in borderline cases)
-
-**Key Case**: _Peters v The Queen_ [1998] HCA 7 (Toohey, Gaudron, McHugh, Gummow & Kirby JJ).
+- **s 86(1)(e) & s 86A _Crimes Act 1914_ (Cth):** The statutory provisions for the offence of conspiracy to defraud the Commonwealth.
+- **_R v Ghosh_ (Rejected for this offence):** The English Court of Appeal established a two-stage test for dishonesty: (1) an objective standard of ordinary honest people, and (2) a subjective realization by the accused that the act violated that standard. The High Court found this test confusing, unhelpful, and inappropriate for the common law offence of conspiracy to defraud.
+- **_R v Salvo_ (Distinguished):** Established a purely subjective test for dishonesty (whether the accused believed they had a legal right). The High Court ruled this only applies to specific statutory offences (like theft) where "dishonestly" is used in a special statutory sense.
+- **The Element of Fraud/Dishonesty:** The High Court clarified that "dishonesty" is not a freestanding element of conspiracy to defraud. Rather, the offence inherently involves an agreement to use **dishonest means** (e.g., sham mortgages) to prejudice another's rights (e.g., the collection of tax).
 
 ## Application/Analysis
 
-- The agreement to use sham mortgages to conceal income and deprive the Commissioner of tax involved dishonest means
-- There was ample evidence the appellant knew the mortgages were shams and participated in the scheme
-- The trail judge directed the jury using Ghosh test (dishonest by ordinary standards + appellant realised it was dishonest). This gave the appellant an unnecessary forensic advantage
-- No miscarriage of justice occurred because the direction was more favourable to the appellant than required, and the evidence overwhelmingly supported conviction
+- **The Proper Direction:** The trial judge should not have used the _**Ghosh**_ test. Instead of asking the jury to objectively define "ordinary standards of honesty," the judge should simply identify the knowledge or intent that made the conduct dishonest (e.g., agreeing to use sham mortgages to conceal income) and ask the jury to find if the accused had that specific state of mind.
+- **No Miscarriage of Justice:** Even though the trial judge gave the wrong direction by applying _**Ghosh**_, it actually worked in the appellant's favour. By forcing the prosecution to also prove that Peters _knew_ ordinary people would find his actions dishonest, the judge placed a heavier burden on the Crown than the law actually requires.
+- Because Peters knowingly participated in sham transactions to impede the collection of tax, and never claimed he had a legal right to do so, the "dishonest means" were clearly established, and the misdirection gave him an unearned forensic advantage.
 
 ## Conclusion
 
-Appeal dismissed. Conviction was upheld.
+The appeal was **dismissed**. While the trial judge erred in applying the _**Ghosh**_ test, this misdirection was unduly favourable to the appellant and therefore did not cause a miscarriage of justice. The conviction for conspiracy to defraud the Commonwealth was upheld.
