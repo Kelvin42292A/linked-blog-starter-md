@@ -2,33 +2,32 @@ High Court of Australia
 
 ## Material Facts
 
-- The applicant (a married man) and a divorced woman formed a de facto relationship.
-- The agreed to live on the applicant’s wages while the woman banked her own wages into a **joint bank account** which either could operate
-- The applicant, **without the woman’s knowledge or authority**, withdrew the money from the joint account
-- He deposited the money into accounts in his own name
-- He was convicted of larceny of the money pursuant to [s. 162 of the Crimes Act, 1900 (N.S.W.)](https://anzlaw.thomsonreuters.com/Link/Document/FullText?refType=U5&docFamilyGuid=I22467b60d10b11e8a07cfaeacc13e49f&pubNum=1100190&originationContext=document&transitionType=DocumentItem&docVersion=Law+in+Force&ppcid=cf191be05a684c79a698f6609f3ef534&contextData=\(sc.Default\)) as a joint owner.
+- The applicant (Croton) and a woman (Mrs. Webster) were in a relationship and lived together.
+- They opened a joint savings bank account where each had the authority to operate the account and withdraw money.
+- The account was primarily funded by Mrs. Webster's salary and alimony cheques, while they lived off the applicant's wages.
+- Without Mrs. Webster's knowledge or authority, the applicant withdrew multiple sums of money from the joint account and deposited the physical cash into his own separate bank accounts.
+- He was charged and convicted of **larceny** as a joint owner of the money under **s. 162** of the **_Crimes Act 1900_ (NSW)**.
 
 ## Issues
 
-1. What is the **nature of the legal relationship** created when money is deposited into a joint bank account?
-2. What are the **rights** of joint account holders (as between themselves) in the money standing to the credit of the joint account?
-3. Whether the applicant, as a joint account holder, could be guilty of **larceny** by withdrawing and using funds from the joint account without the other account holder’s authority or knowledge
+- Can a person commit larceny by withdrawing funds from a joint bank account without the consent of the other joint account holder?
+- What is the legal nature of "money in the bank" regarding the fundamental elements of larceny (specifically, the requirement to take physical possession)?
 
 ## Rule/Law
 
-- **Common Law Larceny**: Larceny is the taking and carrying away of the personal goods of another from any place, with felonious intent to permanently deprive the owner and convert them to the taker’s own use
-- **s 162 Crimes Act 1900 (NSW)** (applicable in the ACT): A joint owner who steals or embezzles any property belonging to the joint owners may be convicted of larceny **as if he were not a joint owner** of the property stolen
-- **s 117 Crimes Act 1900**: Larceny includes stealing any **valuable security** (which includes a cheque)
+- **Larceny at Common Law:** To constitute larceny, there must be an "asportation"—the taking and carrying away of a physical item (a _chose in possession_) out of the possession of the true owner without their consent.
+- **Nature of Bank Deposits:** "Money in the bank" is legally a **chose in action** (a right to sue the bank for a debt), not physical cash. The actual physical money deposited becomes the property of the bank, which uses it as it pleases.
+- **s. 162 _Crimes Act 1900_ (NSW):** Allows a joint owner to be convicted of stealing jointly owned property (removing the common law defense that you cannot steal what you already jointly own). However, **all other elements of larceny must still be present**.
 
 ## Application/Analysis
 
-- The funds in the joint account were a **chose in action** (a debt owed by the bank to the joint holders), not physical “personal goods”
-- When Croton withdrew the cash, the bank **voluntarily handed it over** - there was **no trespassory taking** from the possession of Webster or joint owners.
-- Once withdrawn, the **cash became Croton’s property**. He could not steal his own property
-- Section 162 removes the bar on joint owners being convicted of larceny, but it does **not** remove the need to prove all elements of larceny. Those elements were missing here
-
-The conviction for larceny could **not** be sustained
+- **Cannot Steal a Bank Balance:** The balance standing to the credit of a joint account is a _chose in action_ and cannot be physically taken or carried away. Therefore, the account balance itself is **not susceptible to larceny**.
+- **Cannot Steal the Physical Cash:** The applicant did not commit larceny when the bank teller handed him the physical paper money and coins:
+    1. The bank handed the money over _voluntarily_ in accordance with his authority to operate the account, so it was not taken against the bank's will.
+    2. The physical cash was never taken out of Mrs. Webster's possession because she never had possession of those specific notes/coins.
+- **Not a Bailee:** The applicant was not a bailee of the physical money for Mrs. Webster because the physical money was never delivered to him by her.
+- **Alternative Offences:** While the applicant's conduct may have constituted **fraudulent misappropriation** (if he broke a legally binding agreement regarding how the funds were to be used), it lacked the fundamental elements required to constitute the specific crime of larceny.
 
 ## Conclusion-
 
-Appeal allowed. Conviction quashed. No new trail ordered (facts could not support a larceny conviction).
+The appeal was **allowed** (by a 2-1 majority). The High Court ruled that a withdrawal from a joint bank account cannot legally constitute larceny. The convictions and sentences were **quashed**.
