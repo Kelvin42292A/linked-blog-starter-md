@@ -2,33 +2,30 @@ Hight Court of Australia
 
 ### Material Facts
 
-- Plaintiff (Dr Grant) bought woollen underwear (Golden Fleece brand) from a retailer (John Martin & Co. Ltd)
-- The underwear was manufactured by Australian Knitting Mills
-- After wearing the garments, the plaintiff developed severe dermatitis
-- The cause was chemical irritant (free sulphites( left in the garments due to negligence in the manufacturing process
-- Plaintiff sued the **retailer** for breach of implied conditions (fitness for purpose and merchantable quality) and the **manufacturer** in tort (negligence)
-- The result at trail was Plaintiff won £2,450 against both defendants.
+- Dr. Grant (the plaintiff) purchased two pairs of woolen underwear from a retail store. The underwear was manufactured by Australian Knitting Mills (AKM).
+- He wore the underwear for several days without washing them first.
+- The garments contained a hidden, invisible chemical (excess free sulfites) left over from the factory's manufacturing and shrinking process.
+- As a result of wearing the contaminated underwear, Dr. Grant contracted a severe case of dermatitis, became incredibly ill, and spent nearly a year in the hospital.
+- He sued the retail store for breach of contract, and he sued the manufacturer (AKM) for the tort of negligence.
 
 ### Issue
 
-- Whether the plaintiff’s skin was normal before wearing the underwear.
-- Whether the underwear contained a detrimental quantity of a chemical irritant (free sulphites) due to negligent manufacture.
+1. **Manufacturer's Liability:** Does a manufacturer of a product owe a legal duty of care to the ultimate consumer, even when the consumer bought the item from a middleman (the retailer) and has no direct contract with the manufacturer?
+2. **Intermediate Examination:** Does the negligence rule from _Donoghue v Stevenson_ (the famous "snail in the bottle" case) apply to clothes in a paper packet? Does it matter that the underwear wasn't in a strictly "sealed container" and the consumer _could_ have washed it first?
 
 ### Rule
 
-Sale of Goods Act 1895 (S.A.) s 14
-
-- s 14(1): Where the buyer makes known to the seller the **particular purpose** for which the goods are required, so as to show that the buyer **relies** on the seller’s skill or judgement, there is an **implied condition** that the goods are **reasonably fit** for that purpose
-- s 14 (II): Where goods are bought by description from a seller who deals in goods of that description, there is an **implied condition** that the goods are of **merchantable quality.**
+- **The _Donoghue v Stevenson_ Principle:** A manufacturer owes a duty of care to the ultimate consumer if they sell a product in such a way that it shows they intend it to reach the consumer in the exact same form it left the factory, with no reasonable possibility or expectation of an intermediate examination that would reveal the defect.
+- **The "Sealed Container" Rule Clarified:** A product does not literally need to be locked in a sealed, tamper-proof glass bottle for the manufacturer to be liable. The strict legal requirement is simply that the defect must be hidden and remain unchanged between the factory and the consumer.
 
 ### Application
 
-- The plaintiff made known to the retailer the **particular purpose** - underwear to be worn next to the skin
-- He relied on the retailer’s skill and judgement (bought by description from a retailer who dealt with such goods)
-- Therefore, **implied conditions** arose under **s 14(1)** (fitness for purpose and **s 14(II)** (merchantable quality) of the Sale of Goods Act 1895 (S.A.)
-- The underwear contained a hidden chemical irritant (free sulphites) due to the negligent manufacture, making it unfit for normal use and unmerchantable
-- Plaintiff’s skin was normal. The defect caused his severe dermatitis
+- **Extending the Duty of Care:** The Privy Council ruled that the _Donoghue v Stevenson_ principle absolutely applies to everyday items like underwear. Even though the garments were only wrapped in paper packets and could be physically handled by the retailer and the buyer, the actual _defect_ (the chemical) was completely invisible.
+- **No Expectation to Wash:** The court ruled there was no reasonable legal expectation that a buyer must wash brand-new, packaged underwear before wearing it. Therefore, there was no valid "intermediate examination" that broke the chain of causation.
+- **Res Ipsa Loquitur (The Thing Speaks for Itself):** Because the chemical was present when Dr. Grant put the underwear on, and the manufacturing process was strictly controlled by AKM, the court inferred that AKM must have been negligent in their washing process at the factory.
 
 ### Conclusion
 
-Breach of implied conditions by the retailer. Manufacturer also reliable in tort (negligence). Plaintiff succeeds both.
+The Privy Council ruled in favor of the **plaintiff (Dr. Grant)**. The manufacturer (AKM) was held **liable in tort** for negligence for failing to remove the chemicals.
+
+_(Note: The retailer was also concurrently held liable for breaching the implied conditions of fitness for purpose under the Sale of Goods Act)._
