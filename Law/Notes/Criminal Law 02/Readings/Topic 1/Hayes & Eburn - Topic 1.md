@@ -293,7 +293,7 @@ This case highlights how hard it is to prove true “intention”.
 - Most crimes require both physical and fault elements.
 
 ### Strict & Absolute Liability
-[[He Kaw Teh v The Queen (1985) 157 CLR 523]]
+[[He Kaw Teh v The Queen (1985) 157 CLR 523; 247 ALR 1]]
 
 - **Strict Liability**: Prove only the physical act — no need to prove fault/mens rea (but honest & reasonable mistake of fact may be a defence).
 - **Absolute Liability**: Prove only the physical act — **no** defence of mistake available.
