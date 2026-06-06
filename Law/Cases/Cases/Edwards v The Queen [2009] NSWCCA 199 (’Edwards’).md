@@ -12,9 +12,9 @@ New South Wales Court of Criminal Appeal
 
 ## Issues
 
-- Should an appellate court grant an extension of time to appeal an original suspended sentence years after it was imposed, just because the offender has now breached the bond?.
-- Did the sentencing judge violate the _De Simoni_ principle by taking into account the "violence offered" (squeezing the hand), effectively sentencing her for the more serious uncharged offence of robbery?.
-- Is an offender automatically entitled to credit for pre-sentence custody if they were held on remand for multiple different offences?.
+- Should an appellate court grant an extension of time to appeal an original suspended sentence years after it was imposed, just because the offender has now breached the bond?
+- Did the sentencing judge violate the _De Simoni_ principle by taking into account the "violence offered" (squeezing the hand), effectively sentencing her for the more serious uncharged offence of robbery?
+- Is an offender automatically entitled to credit for pre-sentence custody if they were held on remand for multiple different offences?
 
 ## Rule/Law
 
