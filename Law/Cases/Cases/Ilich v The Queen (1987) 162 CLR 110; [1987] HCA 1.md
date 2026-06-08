@@ -2,40 +2,32 @@ High court of Australia
 
 ## Material Facts
 
-- The applicant (Ilich), a veterinary surgeon, worked as a local for Mr Brighton in Bridgetown, Western Australia
-- Upon Brighton’s return, a dispute arose over payment for Ilich’s services. Brighton paid Ilich $1,176 in Cash
-- Ilich received an overpayment of $600 (or $530 on his version). He took the money and later discovered the excess but kept it
-- Ilich was charged with stealing $600, the property of Brighton
-- He was convicted in the District Court of Western Australia
-- His appeal to Court of Criminal Appeal was dismissed
-- He sought special leave to appeal to the High Court of Australia
+- The applicant (Ilich) worked as a locum veterinary surgeon for Mr. Brighton.
+- When finalizing their financial arrangements, they agreed Ilich was owed $1,176.
+- According to the applicant's accepted version of events, Brighton rushed him and handed him bundles of cash, which Ilich put into his satchel without counting, signing a receipt for $1,176.
+- Later that night, Ilich counted the money and discovered Brighton had mistakenly overpaid him by $530.
+- Ilich decided to keep the excess $530. He separated it and hid it in a cooler in his car, where police later found it.
+- Ilich was charged with and convicted of stealing the money under **s 371** of the **_Criminal Code_ (WA)**.
 
 ## Issues
 
-1. Whether the applicant **deliberately took** the $600 knowing he was not entitled to it (fraudulent taking).
-2. Whether the applicant **fraudulently converted** the excess money to his own use after discovering the overpayment (fraudulent conversion under s 371).
-3. Whether ownership/property in the overpaid money had **passed** to the applicant, so that he could not steal his own property.
-4. Whether the trial judge’s directions to the jury on stealing and overpayment were adequate.
+- Can a person be guilty of stealing (by fraudulent conversion) if they are mistakenly overpaid, only discover the overpayment later, and then form the intention to keep the excess?
+- Does the legal ownership (property) of mistakenly overpaid currency pass to the payee at the time it is handed over?
 
 ## Rule/Law
 
-Criminal Code (WA) s 371 - Stealing
-
-- A person who **fraudulently takes** anything capable of being stolen, **or fraudulently converts** to his own use any property, is said to steal that thing or property.
-- A taking or conversion is deemed fraudulent if done with intent to:
-    - permanently deprive the owner of the thing or property; or
-    - **in the case of money**, use it at the will of the person who takes or converts it (even if intends to repay the amount later)
-- The act of stealing is not complete until the person **actually moves** it or **otherwise deals with it by** some physical act.
+- **s 371 _Criminal Code_ (WA):** The statutory offence of stealing, which includes both "fraudulently taking" and "fraudulently converting" property.
+- **The Currency Rule (_Miller v Race_):** Unlike ordinary goods, the legal property (ownership) of money/currency passes with physical possession, provided it is received in good faith and for valuable consideration.
+- **The "Fundamental Mistake" Exception:** If the transferor makes a _fundamental_ mistake (e.g., a mistake as to the identity of the person receiving the money or the identity of the thing being handed over), the apparent consent is vitiated, and ownership does _not_ pass.
+- **Mistake as to Quantity:** A mistake merely regarding the _quantity_ of money delivered to settle a debt is **not** a fundamental mistake.
 
 ## Application/Analysis
 
-- On the applicant’s version of events, he received the money (including the overpayment) from Brighton **without knowledge** of any excess at the time of receipt
-- Ownership of the money therefore **passed** to him when it was handed over
-- The applicant only discovered the overpayment later that night. At that point he kept the excess, but there was **no fraudulent taking** at the time he received the money
-- For **fraudulent conversion,** the applicant must have **actually dealt** with the money in a way inconsistent with Brighton’s rights (s 371). Merely keeping the excess after discovery (while deciding what to do) does **not** necessarily amount to conversion
-
-The act of stealing was **not complete.** The trail judge’s directions failed to properly explain conversion and the passing of property.
+- **Passing of Property:** The transaction between Brighton and Ilich was bona fide and for valuable consideration (paying a debt for locum services). Brighton intended to transfer the money to Ilich. Ilich received the cash in good faith, as he was unaware of the overpayment at the moment it was handed to him.
+- **No Fundamental Mistake:** Brighton made no mistake about who he was paying or what he was handing over; he simply made a mistake about the quantity of notes required to settle the debt. Because this is not a fundamental mistake, it did not prevent the property from passing.
+- **Inability to "Convert":** Because the legal ownership of the _entire_ bundle of cash (including the $530 overpayment) passed to Ilich the moment he received it, he became the legal owner of that money. You cannot be criminally liable for "converting" property that you legally own.
+- **Civil vs. Criminal:** While Ilich undoubtedly owed Brighton a civil debt to refund the overpayment (an action for money had and received), his decision to keep the money did not amount to the crime of stealing. The trial judge's directions to the jury, which equated keeping the overpayment with stealing, were fundamentally flawed.
 
 ## Conclusion
 
-Conviction unsafe. Appeal should be allowed and acquittal entered (or new trail ordered).
+The appeal was **allowed**. The High Court quashed the conviction and ordered that a verdict of **acquittal** be entered.
