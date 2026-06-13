@@ -202,3 +202,15 @@ Weekend School 1 covered (high level):
 **Key phrase to use (to confirm)**
 
 - ABH must be more than **“transient or trifling”** (confirm the NSW authority your course requires).
+### Concept Comparison: Larceny vs. Larceny by Trick vs. Fraud (s 192E)
+
+When reading a fact scenario, track the property from the victim's hand to the accused's hand and ask:
+
+| Offence | Did the victim voluntarily hand it over? | What did the victim intend to transfer? |
+| :--- | :--- | :--- |
+| **Normal Larceny** | **No.** (It was taken behind their back or by force/snatching). | **Nothing.** |
+| **Larceny by Trick** | **Yes.** (But only because of a lie). | **Possession only.** (Expected it back / temporary). |
+| **Fraud (s 192E)** | **Yes.** (But only because of a lie). | **Full Title / Ownership.** (Intended to part with it permanently). |
+
+> [!tip] Issue-Spotting Quick Rule
+> **Money:** If the exam facts involve money being handed over (e.g., the victim is tricked into paying $100 for a fake concert ticket), head straight to **Fraud (s 192E)**. When people hand over cash, they intend to pass full ownership of those specific notes/coins.
