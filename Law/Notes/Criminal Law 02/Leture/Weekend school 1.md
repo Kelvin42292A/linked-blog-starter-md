@@ -3,7 +3,7 @@
 Weekend School 1 covered (high level):
 
 - **Mens rea** (focus): **recklessness** and **negligence** (incl. negligence manslaughter).
-- Property offences: **larceny** and how **robbery = larceny + assault**.
+- Property offences: **larceny** and **robbery = larceny + assault**.
 - Intro to **fraud** and **assault** provisions (NSW, _Crimes Act 1900 (NSW)_).
 
 ### Exam use (how to deploy these notes)
