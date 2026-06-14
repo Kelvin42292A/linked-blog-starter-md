@@ -28,3 +28,8 @@
 ### Conclusion
 
 The application for special leave to appeal was **dismissed**. The High Court ruled the trial judge's directions were adequate and upheld the original conviction for **murder**.
+
+### Judges Rules
+
+- **Accidental Killing is Still Murder:** If you commit a violent crime (like armed robbery) and accidentally kill someone, you are guilty of murder. The law does not require you to have actually intended to hurt or kill them.
+- **Reflexes" Count as Voluntary Acts:** You can only be guilty if your physical action was voluntary. However, if you point a loaded gun at someone and accidentally pull the trigger because you get startled, the law says this is a foreseeable reaction and is still a "voluntary" act, so you cannot use it as an excuse.

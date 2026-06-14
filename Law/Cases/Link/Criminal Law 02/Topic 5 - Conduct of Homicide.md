@@ -1,5 +1,5 @@
 1. [[R v Iby  (2005) 63 NSWLR 278; [2005] NSWCCA 178]]
-2. [[Ryan v The Queen (1967) 121 CLR 205]]
+2. [[Ryan v The Queen (1967) 121 CLR 205; [1967] HCA 2]]
 3. [[Jiminez v R (1992) 173 CLR 572; [1992] HCA 14 (‘Jiminez’)]]
 4. [[R v Hallett [1969] SASR 141]]
 5. [[Royall v The Queen (1991) 172 CLR 378; [1991] HCA 27]]

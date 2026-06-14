@@ -1,6 +1,6 @@
 1. [[Chief Executive Officer of Customs v Labrador Liquor Wholesale Pty Ltd [2003] HCA 49]]
 2. [[Proprietary Articles Trade Association v Attorney-General for Canada [1931] AC 310]]
-3. [[Ryan v The Queen (1967) 121 CLR 205]]
+3. [[Ryan v The Queen (1967) 121 CLR 205; [1967] HCA 2]]
 4. [[Burns v The Queen (2012) 246 CLR 334; 290 ALR 713; [2012] HCA 35]]
 5. [[R v Hallett [1969] SASR 141]]
 6. [[R v Nedrick  [1986] 3 All ER 1]]
