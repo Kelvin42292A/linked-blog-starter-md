@@ -1,0 +1,8 @@
+**Core Theme:** Before the famous 1992 _Mabo_ decision, it was generally believed that early Australian common law was entirely based on the doctrine of _terra nullius_ (nobody's land). However, early court records reveal a brief historical period where **Indigenous legal autonomy and property rights were officially recognized by the courts**.
+
+**The Two Defining Cases:**
+
+- **R v Ballard (1829) - _Recognition of Indigenous Law_:** In this case, Chief Justice Forbes and Justice Dowling ruled that **English courts lacked jurisdiction over offenses committed strictly between Aboriginal people**. Forbes noted that Aboriginal people were governed by the laws of their own tribes and that English law had no right to intervene. Dowling emphasized that Aboriginal people had not consented to English laws and went as far as **explicitly recognizing Indigenous property rights**.
+- **R v Murrell (1836) - _Establishment of Terra Nullius_:** This case **overturned the Ballard decision** and became the foundational case for the _terra nullius_ doctrine in Australia. Justice Burton dismissed Indigenous laws as "irrational superstition" and established a unitary legal view: that since 1788, English law applied to everyone in Australia, including for crimes committed between Aboriginal people.
+
+**Historical Significance:** The _Ballard_ (1829) case is a critical piece of Australian legal history because it proves that **early colonial judges briefly supported a plurality of laws**. It shows that the most difficult modern legal issues regarding the recognition of native laws and property rights were actually acknowledged and respected by the courts over 160 years before the _Mabo_ decision.
