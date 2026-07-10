@@ -28,3 +28,17 @@
 ### Conclusion
 
 The appeal was **allowed**. The High Court **quashed** the manslaughter conviction and entered a verdict of **acquittal** because the trial judge misdirected the jury and there was insufficient legal basis to find the appellant liable for the death.
+
+### Judges Rules (Criminal Negligence)
+
+- **No Manslaughter by Mere Supply:** Selling or giving an illegal drug to a sane, consenting adult is not an "unlawful and dangerous act" that legally causes their death.
+- **Voluntary Choice Breaks Causation:** The deceased person’s voluntary and informed decision to take the drug breaks the legal chain of causation between the supplier and the death.
+- **No Automatic Duty to Rescue:** A drug supplier does not owe a legal duty of care to seek medical help for a customer who suffers an adverse drug reaction in their presence.
+- **The High Bar for Duty of Care:** A legal duty of care in these circumstances only arises if the supplier voluntarily takes charge of the helpless person and **secludes them** so that others are prevented from helping them.
+
+### Judges Rules (Unlawful and dangerous act doctrine)
+
+- **Mere Supply is Not "Dangerous"**: Supplying an illegal drug to an adult is not, in itself, a "dangerous act" under the law. The actual physical act of handing over a drug carries no direct, appreciable risk of physical injury.
+- **The Danger Lies in Consumption**: The legal requirement of "dangerousness" must belong directly to the accused's act itself. Any physical danger associated with a drug only arises when it is later consumed, not when it is supplied.
+- **Voluntary Action Breaks Causation**: The voluntary and informed decision of a sane adult to ingest a drug is an independent act of free will. This choice legally breaks the chain of causation between the supplier's act of supply and the user's death.
+- **No Manslaughter for Supply Alone**: Consequently, a drug supplier cannot be convicted of manslaughter by an unlawful and dangerous act based solely on the fact that they supplied a drug which the deceased freely chose to take.
