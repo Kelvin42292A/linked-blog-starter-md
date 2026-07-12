@@ -215,3 +215,8 @@ To be found guilty of this form of manslaughter, the prosecution must prove two 
 **2. Criminal Negligence vs. Unlawful & Dangerous Act**
 
 The law draws a very clear distinction between these two categories of manslaughter based on the **level of risk** involved:
+
+|Feature|Unlawful & Dangerous Act|Criminal Negligence|
+|---|---|---|
+|**Risk Threshold**|Appreciable risk of **serious injury**|High risk of **death or grievous bodily harm (GBH)**|
+|**Focus**|The act itself must be a crime (e.g., assault)|The conduct falls so far short of standard care that it warrants criminal punishment|
