@@ -1,0 +1,5 @@
+1. [[Parker v The Queen (1963) 111 CLR 610]]
+2. [[R v Muy Ky Chhay (1994) 72 A Crim R 1 (‘Chhay’)]]
+3. [[Green v The Queen (1997) 191 CLR 334; (1997) 148 ALR 659; [1997] HCA 50 (‘Green’)]]
+4. [[R v Dib (2002) 134 A Crim R 329; [2002] NSWCCA 934 (‘Dib’)]]
+5. [[R v Turnbull [No 25] [2016] NSWSC 831 (‘Turnbull’)]]
