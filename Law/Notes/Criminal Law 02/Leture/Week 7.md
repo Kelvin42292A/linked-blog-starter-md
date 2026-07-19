@@ -34,10 +34,10 @@
 1. **Three-Hat Method:** Structure answers using **Prosecution** (offences & elements), **Defence** (counterarguments & defences), and **Bench** (final logical conclusion).
 2. **Evidence Gaps:** If mens rea is unclear, state: _"With further evidence as to the mental element, the court may decide X or Y."_ Do not guess.
 
-|Legal Term / Role|What is it? (In Simple Terms)|Pre-Existing Plan Needed?|Must be Present at the Scene?|
-|---|---|---|---|
-|**Principal (1st Degree)**|The main offender who physically commits the crime.|No plan needed.|Yes, they do the crime.|
-|**Principal (2nd Degree)**|An assistant who is at the scene intentionally helping or encouraging.|No plan needed.|**Yes**, must be present. _(Mere presence is not enough__)._|
-|**Accessory Before the Fact**|An assistant who helps or encourages the crime **before** it happens.|No plan needed.|**No**, they are absent.|
-|**Joint Criminal Enterprise (JCE)**|A group acting together under a shared agreement to commit a crime.|**Yes, required**.|**No**, can be "behind the scenes".|
-|**Extended JCE (Common Purpose)**|You are held liable for an _unplanned, extra crime_ your partner did because you knew it was a **possibility**.|Only agreed to the _main_ crime; did not agree to the _extra_ crime.|**No**, same as JCE.|
+| Role / Concept                      | How to Determine? (The Test)                                                                                             | Pre-Existing Plan Needed?                                            | Must be Present? |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ---------------- |
+| **Principal (1st Degree)**          | The person who physically commits the crime.                                                                             | No plan needed.                                                      | Yes              |
+| **Principal (2nd Degree)**          | Present at the scene with actual knowledge of the facts, **intentionally assisting**. _(Mere presence is not enough__)._ | No plan needed.                                                      | **Yes**          |
+| **Accessory Before the Fact**       | **Intentionally assists or encourages** the crime _before_ it happens, but is absent during commission.                  | No plan needed.                                                      | **No**           |
+| **Joint Criminal Enterprise (JCE)** | Proof of a **pre-existing plan or agreement** and mutual embarkation on the crime.                                       | **Yes, required**.                                                   | **No**           |
+| **Extended JCE (Common Purpose)**   | Partners commit an unplanned crime, but you participated knowing it was a **possibility**.                               | Only agreed to the _main_ crime; did not agree to the _extra_ crime. | **No**           |
