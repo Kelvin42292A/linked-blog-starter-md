@@ -1,4 +1,3 @@
-# Notion Cheatsheet: Criminal Complicity, JCE, and Attempt
 
 ## **1. Criminal Complicity (Accessory Liability)**
 
@@ -35,4 +34,3 @@
 1. **Three-Hat Method:** Structure answers using **Prosecution** (offences & elements), **Defence** (counterarguments & defences), and **Bench** (final logical conclusion).
 2. **Evidence Gaps:** If mens rea is unclear, state: _"With further evidence as to the mental element, the court may decide X or Y."_ Do not guess.
 
-Gemini Notebook can be inaccurate; please double check its responses.
