@@ -1,0 +1,8 @@
+1. [[Kable v Director of Public Prosecutions (NSW) (1996) 189 CLR 51 – per McHugh J pp. 108-124]]
+2. [[Attorney-General for New South Wales v Trethowan [1932] AC 526]]
+3. [[Clayton v Heffron (1960) 105 CLR 214]]
+4. [[Amalgamated Society of Engineers v Adelaide Steamship Co (Engineers’ Case) (1920) 28 CLR 129]]
+5. [[The Commonwealth v Tasmania (Tasmanian Dam Case) (1983) 158 CLR 1]]
+6. [[Queensland v Commonwealth (1977) 139 CLR 585]]
+7. [[Street v Queensland Bar Association (1989) 168 CLR 461]]
+8. [[Williams v Commonwealth of Australia [2012] HCA 23]]
