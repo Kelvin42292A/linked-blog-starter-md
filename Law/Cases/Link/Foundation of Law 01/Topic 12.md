@@ -6,3 +6,7 @@
 6. [[Queensland v Commonwealth (1977) 139 CLR 585]]
 7. [[Street v Queensland Bar Association (1989) 168 CLR 461]]
 8. [[Williams v Commonwealth of Australia [2012] HCA 23]]
+9. [[Western Australia v Commonwealth (Native Title Act Case) (1995) 183 CLR 373]]
+10. [[Viskauskas v Niland(1983) 153 CLR 208]]
+11. [[University of Wollongong v Metwally(1984) 158 CLR 447]]
+12. 
