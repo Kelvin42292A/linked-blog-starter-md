@@ -30,3 +30,10 @@ High Court of Australia
 ## Conclusion
 
 The appeal was **dismissed** and the guilty conviction was upheld. Even though the trial judge gave the wrong instructions on the law, it did not cause a miscarriage of justice because the appellant had failed to properly raise the defence at trial anyway,.
+### Judges Rules (**Requisite elements of the defence of mistake of fact)**
+
+When relying on the common law exculpation of **honest and reasonable mistake of fact** for a statutory offence:
+
+1. **The Requisite Elements:** The defendant must hold a subjective belief in a state of facts that is **honest** and based on **objectively reasonable grounds**, which—if true—would make their conduct **entirely lawful and innocent**.
+2. **The Evidential Burden (On the Defendant):** The defendant must point to or elicit real, testable evidence in the trial to "enliven" the issue. A defendant cannot raise the issue using a prior out-of-court statement (like a police interview) if they refuse to put those assertions to the prosecution’s witnesses under cross-examination.
+3. **The Ultimate Onus (On the Prosecution):** Once the defendant points to enough evidence to make mistake a "live" issue, the burden shifts entirely to the prosecution, which must **disprove the honest and reasonable mistake beyond reasonable doubt**.

@@ -30,3 +30,11 @@ High Court of Australia
 ## Conclusion
 
 The appeal by He Kaw Teh was **allowed**. The High Court set aside the judgments of the lower courts because the jury was given the wrong legal instructions. The case was sent back to the Victorian Court of Criminal Appeal to determine if the legal mistakes caused a substantial miscarriage of justice requiring a new trial.
+
+### The Universal Rule (Divining the fault element of statutory offences)
+
+When interpreting a statutory offence that does not mention any mental state (like "knowingly" or "wilfully"):
+
+1. **Assume _mens rea_ (guilty intent/knowledge) is required**.
+2. The more **severe the penalty** and the **greater the social disgrace** of a conviction, the harder it is to override this presumption.
+3. An offence will only be classified as **Strict Liability** or **Absolute Liability** if the text clearly demands it, or if the offence is a minor regulatory matter where making people strictly liable would genuinely encourage greater care and compliance.

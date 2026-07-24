@@ -33,3 +33,11 @@ High Court of Australia
 ## Conclusion
 
 The appeal was **allowed**. The High Court set aside the culpable driving conviction because the trial miscarried due to the judge's misdirections. The Court decided **not** to order a new trial.
+
+### Judges Rules (Divining the Fault Element of Statutory Offences)
+
+When an Act of Parliament defines an offence but does not state what mental element (such as intent, knowledge, or recklessness) is required, courts classify the offence into **one of three categories**:
+
+1. **Full _Mens Rea_ (Guilty Mind):** The prosecution must prove the accused had actual intent, knowledge, or recklessness. There is a **strong starting presumption** that statutory offences fall into this category.
+2. **Strict Liability:** The prosecution does _not_ have to prove a guilty mind. However, the accused will be acquitted if they can establish they held an **honest and reasonable mistake of fact**—meaning they believed in a state of facts which, if true, would make their act innocent.
+3. **Absolute Liability:** The prosecution does not need to prove a guilty mind, and the defence of honest and reasonable mistake is **completely excluded**.
