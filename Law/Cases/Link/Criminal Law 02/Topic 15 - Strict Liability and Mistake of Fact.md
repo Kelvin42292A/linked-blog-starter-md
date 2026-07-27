@@ -1,0 +1,5 @@
+1. [[He Kaw Teh v The Queen (1985) 157 CLR 523; 247 ALR 1]]
+2. [[Jiminez v R (1992) 173 CLR 572; [1992] HCA 14 (‘Jiminez’)]]
+3. [[Proudman v Dayman (1941) 67 CLR 536; [1941] HCA 28]]
+4. [[CTM v The Queen (2008) 236 CLR 440; 247 ALR 1; [2008] HCA 25 (‘CTM’)]]
+5. [[Bell v Tasmania (2021) 274 CLR 414; [2021] HCA 42]]

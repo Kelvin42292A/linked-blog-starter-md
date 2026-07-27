@@ -1,0 +1,6 @@
+1. [[R v O’Connor (1980) 146 CLR 64; 4 A Crim R 348; [1980] HCA 17 (‘O’Connor’)]]
+2. [[R v Grant (2002) 55 NSWLR 80; 131 A Crim R 523; [2002] NSWCCA 243 (‘Grant’)]]
+3. [[R v Derbin [2000] NSWCCA 361 (‘Derbin’)]]
+4. [[R v Makisi (2004) 151 A Crim R 245; [2004] NSWCCA 333 (‘Makisi’)]]
+5. [[Ward v The Queen [2013] NSWCCA 46 (‘Ward’)]]
+6. [[Majewski v DPP [1977] AC 443; 2 WLR 623 (‘Majewski’)]]
