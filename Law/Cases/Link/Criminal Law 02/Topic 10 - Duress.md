@@ -1,0 +1,6 @@
+1. [[R v Lawrence [1980] 1 NSWLR 122 (‘Lawrence’)]]
+2. [[R v Brown (1986) 43 SASR 33; 21 A Crim R 288 (‘Brown’)]]
+3. [[R v Runjanjic (1991) 53 A Crim R 362; 56 SASR 114 (‘Runjanjic and Kontinnen’)]]
+4. [[R v Abusafiah (1991) 24 NSWLR 531 (‘Abusafiah’)]]
+5. [[Nguyen v The Queen (2008) 181 A Crim R 72; [2008] NSWCCA 22 (‘Nguyen’)]]
+6. [[R v McConnell [1977] 1 NSWLR 714 (‘McConnell’)]]
