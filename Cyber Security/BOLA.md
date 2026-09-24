@@ -178,6 +178,12 @@ query {
 > [!warning] GraphQL Resolver Blindness
 > The developer secured the root `query.invoice()` resolver. However, the nested `user.invoices` resolver blindly executes `SELECT * FROM invoices WHERE owner_id = parent.id`, allowing anyone to traverse into another user's private records.
 
+> [!note] The Core Attack Concept (GraphQL BOLA)
+> 1. **Alice logs in legitimately:** She has a valid session token (she doesn't forge or hack authentication).
+> 2. **Alice finds Bob's ID:** Bob's username or ID is public (from a forum post, profile URL, or auto-incrementing number).
+> 3. **The Exploit:** Alice crafts a single GraphQL query: `user(id: "bob") { invoices { amount } }`.
+> 4. **The Flaw:** The GraphQL engine resolves Bob's public profile, then automatically resolves Bob's invoices. Because the developer never wrote a check inside `invoices` verifying that `logged_in_user == requested_user`, the server hands Bob's private records to Alice.
+
 ---
 
 ## 5. The Common Misconception: "UUIDs Fix BOLA"
