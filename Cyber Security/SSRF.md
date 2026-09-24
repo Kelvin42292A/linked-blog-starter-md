@@ -246,10 +246,33 @@ The server checks the domain, marks it as trusted, issues the request, and follo
 
 ### Advanced Attack Surface Reference
 
-| Advanced Vector | Protocol / Vector | Impact | Target Scenario |
-|---|---|---|---|
-| **Local File Inclusion** | `file:///` | Local arbitrary file disclosure | Unfiltered cURL or legacy wrappers |
-| **TCP Command Smuggling**| `gopher://` | Remote Code Execution (RCE) | Unauthenticated Redis / Memcached / SMTP |
-| **Headless PDF Rendering** | `<iframe>`, `<img>` | Secret leakage baked into PDFs | HTML-to-PDF / Invoice generators |
-| **K8s API Interception** | `https://kubernetes.default.svc` | Cluster takeover / Pod breakout | Containerized microservices |
-| **Whitelist Chaining** | HTTP `302` on trusted host | Bypasses strict domain filters | Single Sign-On / OAuth redirectors |
+| Advanced Vector | Mechanism | Impact | Prevalence | Success Rate |
+|---|---|---|---|---|
+| **Headless PDF Rendering** | `<iframe>`, `<img>` | Secret leakage in PDFs | **High** | **~75% - 85%** |
+| **Whitelist Chaining** | Open `302` on trusted host | Bypasses domain checks | **Moderate** | **~60% - 70%** |
+| **K8s API Interception** | `kubernetes.default.svc` | Cluster takeover / pivots | **Moderate** | **~35% - 45%** |
+| **Local File Inclusion** | `file:///` scheme | Arbitrary local file read | **Low-Mod** | **~20% - 30%** |
+| **TCP Command Smuggling** | `gopher://` raw packets | Remote Code Execution | **Rare** | **< 10%** |
+
+---
+#### Vector Details & Drivers
+
+> [!warning] Headless PDF Rendering (~75% - 85% Success)
+> * **Why:** Tools like `wkhtmltopdf` or headless Chromium execute full JavaScript and load remote media by default, routinely ignoring standard web firewalls.
+> * **Common Target:** Invoice, receipt, and resume generators.
+
+> [!warning] Whitelist Chaining (~60% - 70% Success)
+> * **Why:** When developers enforce strict domain whitelists, an open redirect on that trusted domain (e.g., login or OAuth endpoints) lets the attacker bypass the check automatically.
+> * **Common Target:** Enterprise apps with SSO or OAuth redirection.
+
+> [!warning] K8s API Interception (~35% - 45% Success)
+> * **Why:** Many container pods have mounted service account tokens and can query the internal cluster API directly, unless strict network policies or RBAC limits are applied.
+> * **Common Target:** Microservice architectures on Kubernetes.
+
+> [!warning] Local File Inclusion (~20% - 30% Success)
+> * **Why:** Modern libraries (`requests`, `axios`) drop `file://` by default, but raw `libcurl`, PHP wrappers, or custom backend scripts often still allow it.
+> * **Common Target:** Legacy backends or unconfigured system CLI calls.
+
+> [!warning] TCP Command Smuggling (< 10% Success)
+> * **Why:** Modern runtimes ban `gopher://` entirely, and modern databases like Redis enable `protected-mode` and passwords by default.
+> * **Common Target:** Outdated internal caching servers (Redis/Memcached) on private networks.
