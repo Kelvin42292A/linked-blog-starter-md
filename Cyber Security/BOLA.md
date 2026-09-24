@@ -184,21 +184,21 @@ query {
 
 Many developers believe replacing auto-incrementing integers (`/invoices/1042`) with random UUIDs (`/invoices/9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d`) solves BOLA.
 
-| Approach | What It Does | Why It Fails as a Security Control |
-|---|---|---|
-| **Sequential IDs** (`1, 2, 3`) | Predictable database indexes. | Attacker runs a 5-line script to enumerate every record in minutes. |
-| **UUIDs** (`v4`) | Prevents brute-force ID guessing. | **Security through obscurity.** If the UUID is leaked (via referrers, logs, chats, or APIs), the endpoint still hands over data because the ownership check is absent. |
+| Approach                       | What It Does                      | Why It Fails as a Security Control                                                                                                                                     |
+| ------------------------------ | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sequential IDs** (`1, 2, 3`) | Predictable database indexes.     | Attacker runs a 5-line script to enumerate every record in minutes.                                                                                                    |
+| **UUIDs** (`v4`)               | Prevents brute-force ID guessing. | **Security through obscurity.** If the UUID is leaked (via referrers, logs, chats, or APIs), the endpoint still hands over data because the ownership check is absent. |
 
 ---
 
 ## 6. Real-World Attack Surface Matrix
 
-| Target Scenario | Attack Vector | Common HTTP Method | Impact |
-|---|---|---|---|
-| **REST Read** | Direct ID manipulation in URL path | `GET` | Bulk personal and financial data exfiltration. |
-| **REST Write** | Overwriting other users' resources | `PUT`, `PATCH`, `DELETE` | Account takeovers, data deletion, privilege escalation. |
-| **Multi-Tenant SaaS** | Missing `tenant_id` validation | `GET`, `POST` | Cross-company tenant data exposure and account takeover. |
-| **GraphQL APIs** | Nested node graph traversal | `POST` (GraphQL body) | Bypasses top-level authorization guards via child resolvers. |
+| Target Scenario       | Attack Vector                      | Common HTTP Method       | Impact                                                       |
+| --------------------- | ---------------------------------- | ------------------------ | ------------------------------------------------------------ |
+| **REST Read**         | Direct ID manipulation in URL path | `GET`                    | Bulk personal and financial data exfiltration.               |
+| **REST Write**        | Overwriting other users' resources | `PUT`, `PATCH`, `DELETE` | Account takeovers, data deletion, privilege escalation.      |
+| **Multi-Tenant SaaS** | Missing `tenant_id` validation     | `GET`, `POST`            | Cross-company tenant data exposure and account takeover.     |
+| **GraphQL APIs**      | Nested node graph traversal        | `POST` (GraphQL body)    | Bypasses top-level authorization guards via child resolvers. |
 
 ---
 
