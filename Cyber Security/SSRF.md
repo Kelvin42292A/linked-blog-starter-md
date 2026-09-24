@@ -119,12 +119,12 @@ When developers add basic filters, attackers adapt. Here is how the cat-and-mous
 
 ## 5. Success Rates & Commonality in the Real World
 
-| Technique | Prevalence | Success Rate (Against Defenses) | Notes |
-|---|---|---|---|
-| **HTTP Redirects (`302`)** | **Very High** | **~70% - 80%** | Most popular libraries follow redirects by default unless explicitly disabled (`allow_redirects=False`). |
-| **Alternative IP / IPv6 Formats** | **High** | **~40% - 50%** | Defeats simple regex string checks. Completely fails if the server parses addresses with standard IP libraries. |
-| **DNS Rebinding** | **Medium** | **~60% - 75%** (Code checks) / **~0%** (IMDSv2) | Exploits the race condition between check and fetch. Stopped completely by IP socket pinning. |
-| **Parser Confusion** | **Low** | **~20% - 30%** | Highly dependent on specific combinations of programming languages and server frameworks. |
+| Technique                         | Prevalence    | Success Rate (Against Defenses)                 | Notes                                                                                                           |
+| --------------------------------- | ------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **HTTP Redirects (`302`)**        | **Very High** | **~70% - 80%**                                  | Most popular libraries follow redirects by default unless explicitly disabled (`allow_redirects=False`).        |
+| **Alternative IP / IPv6 Formats** | **High**      | **~40% - 50%**                                  | Defeats simple regex string checks. Completely fails if the server parses addresses with standard IP libraries. |
+| **DNS Rebinding**                 | **Medium**    | **~60% - 75%** (Code checks) / **~0%** (IMDSv2) | Exploits the race condition between check and fetch. Stopped completely by IP socket pinning.                   |
+| **Parser Confusion**              | **Low**       | **~20% - 30%**                                  | Highly dependent on specific combinations of programming languages and server frameworks.                       |
 
 ---
 
