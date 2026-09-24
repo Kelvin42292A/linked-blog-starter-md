@@ -8,6 +8,17 @@ tags:
   - network-security
 status: complete
 ---
+---
+title: "Day 1: Server-Side Request Forgery (SSRF)"
+date: 2026-09-24
+tags:
+  - cybersecurity
+  - web-security
+  - owasp-top-10
+  - appsec
+status: completed
+---
+
 # Day 1: Server-Side Request Forgery (SSRF)
 
 > [!abstract] Core Definition
@@ -119,12 +130,12 @@ When developers add basic filters, attackers adapt. Here is how the cat-and-mous
 
 ## 5. Success Rates & Commonality in the Real World
 
-| Technique                         | Prevalence    | Success Rate (Against Defenses)                 | Notes                                                                                                           |
-| --------------------------------- | ------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **HTTP Redirects (`302`)**        | **Very High** | **~70% - 80%**                                  | Most popular libraries follow redirects by default unless explicitly disabled (`allow_redirects=False`).        |
-| **Alternative IP / IPv6 Formats** | **High**      | **~40% - 50%**                                  | Defeats simple regex string checks. Completely fails if the server parses addresses with standard IP libraries. |
-| **DNS Rebinding**                 | **Medium**    | **~60% - 75%** (Code checks) / **~0%** (IMDSv2) | Exploits the race condition between check and fetch. Stopped completely by IP socket pinning.                   |
-| **Parser Confusion**              | **Low**       | **~20% - 30%**                                  | Highly dependent on specific combinations of programming languages and server frameworks.                       |
+| Technique | Prevalence | Success Rate (Against Defenses) | Notes |
+|---|---|---|---|
+| **HTTP Redirects (`302`)** | **Very High** | **~70% - 80%** | Most popular libraries follow redirects by default unless explicitly disabled (`allow_redirects=False`). |
+| **Alternative IP / IPv6 Formats** | **High** | **~40% - 50%** | Defeats simple regex string checks. Completely fails if the server parses addresses with standard IP libraries. |
+| **DNS Rebinding** | **Medium** | **~60% - 75%** (Code checks) / **~0%** (IMDSv2) | Exploits the race condition between check and fetch. Stopped completely by IP socket pinning. |
+| **Parser Confusion** | **Low** | **~20% - 30%** | Highly dependent on specific combinations of programming languages and server frameworks. |
 
 ---
 
@@ -193,3 +204,52 @@ def secure_fetch(url, hostname):
 ### Layer 3: Network Isolation (Zero Trust Architecture)
 * Place any service that accepts external URLs into a dedicated, isolated subnet/DMZ.
 * Use firewall/security group egress rules that physically block outbound traffic to private subnets (`10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16`, and `169.254.169.254`).
+
+---
+
+## 8. Advanced SSRF Vectors & Mechanics
+
+Beyond basic HTTP requests, advanced penetration testers and adversaries leverage non-HTTP protocols, document parsers, and container orchestration internals:
+
+### A. Non-HTTP Schemes & Protocol Smuggling
+Many underlying fetching clients (such as `libcurl`) support multiple URI schemes unless explicitly disabled:
+* **Local File Read (`file://`):**
+  Supplying `file:///etc/passwd` or `file:///c:/windows/win.ini` forces the server to read its local filesystem instead of opening a network socket.
+* **Raw TCP Packet Injection (`gopher://`):**
+  The legacy `gopher` protocol allows transmitting raw ASCII payloads across arbitrary TCP streams without HTTP headers. Attackers format payloads against internal plaintext services like **Redis** (port 6379) or **Memcached** (port 11211):
+  ```text
+  gopher://127.0.0.1:6379/_SET%20shell%20%22%3C%3Fphp%20system(%24_GET%5B'c'%5D)%3B%3F%3E%22%0ASAVE%0AQUIT
+  ```
+  This turns an SSRF flaw directly into **Remote Code Execution (RCE)**.
+
+### B. Headless Browsers & Document Converters (HTML-to-PDF)
+Features that convert user-submitted HTML or Markdown into PDF documents (e.g., invoice generators using headless Chrome or `wkhtmltopdf`) are common SSRF entry points:
+* Attackers inject media tags:
+  ```html
+  <iframe src="[http://169.254.169.254/latest/meta-data/](http://169.254.169.254/latest/meta-data/)" height="400" width="600"></iframe>
+  <img src="[http://127.0.0.1:8080/admin/export](http://127.0.0.1:8080/admin/export)" />
+  ```
+* The headless browser executes local DOM rendering inside the VPC, fetches internal endpoints, and bakes the rendered secrets directly into the downloadable PDF.
+
+### C. Container & Kubernetes Orchestration Targeting
+Inside modern containerized clusters:
+* **Service Account Tokens:** Pods routinely mount cluster credentials at:
+  `/var/run/secrets/kubernetes.io/serviceaccount/token`
+* **Kubernetes API Server:** Attackers target internal DNS endpoints like `https://kubernetes.default.svc` or default gateway subnets (`10.96.0.1`) using SSRF to exfiltrate secrets or control sibling pods across the cluster.
+
+### D. Open Redirect Chaining (Bypassing Whitelists)
+When developers implement domain allow-lists (e.g., only allowing URLs starting with `https://trusted.company.com/`), attackers locate an unvalidated redirect on the trusted domain:
+```text
+[https://trusted.company.com/oauth/redirect?next=http://169.254.169.254/](https://trusted.company.com/oauth/redirect?next=http://169.254.169.254/)
+```
+The server checks the domain, marks it as trusted, issues the request, and follows the redirect straight into the internal network.
+
+### Advanced Attack Surface Reference
+
+| Advanced Vector | Protocol / Vector | Impact | Target Scenario |
+|---|---|---|---|
+| **Local File Inclusion** | `file:///` | Local arbitrary file disclosure | Unfiltered cURL or legacy wrappers |
+| **TCP Command Smuggling**| `gopher://` | Remote Code Execution (RCE) | Unauthenticated Redis / Memcached / SMTP |
+| **Headless PDF Rendering** | `<iframe>`, `<img>` | Secret leakage baked into PDFs | HTML-to-PDF / Invoice generators |
+| **K8s API Interception** | `https://kubernetes.default.svc` | Cluster takeover / Pod breakout | Containerized microservices |
+| **Whitelist Chaining** | HTTP `302` on trusted host | Bypasses strict domain filters | Single Sign-On / OAuth redirectors |
